@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-10-21T17:40:15.364786+00:00 by Eclipse SUMO sumo 1.28.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="grid.net.xml"/>
+        <route-files value="with_passengers.rou.xml"/>
+        <additional-files value="stops.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="with_passengers_trips.xml"/>
+        <personinfo-output value="with_passengers_persons.xml"/>
+        <stop-output value="with_passengers_stops.xml"/>
+    </output>
+
+    <time>
+        <end value="300"/>
+        <step-length value="1"/>
+    </time>
+
+    <report>
+        <no-step-log value="true"/>
+    </report>
+
+    <mesoscopic>
+        <mesosim value="false"/>
+    </mesoscopic>
+
+</sumoConfiguration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <personinfo id="passenger_0" depart="0.00" type="DEFAULT_PEDTYPE" speedFactor="1.06" duration="78.00" waitingTime="62.00" timeLoss="0.00" traveltime="16.00">
+        <ride waitingTime="62.00" vehicle="jeepney_0" depart="62.00" arrival="78.00" arrivalPos="50.00" duration="16.00" routeLength="104.00" timeLoss="0.00"/>
+    </personinfo>
+    <personinfo id="passenger_1" depart="0.00" type="DEFAULT_PEDTYPE" speedFactor="0.94" duration="82.00" waitingTime="62.00" timeLoss="0.00" traveltime="20.00">
+        <ride waitingTime="62.00" vehicle="jeepney_0" depart="62.00" arrival="82.00" arrivalPos="50.00" duration="20.00" routeLength="104.00" timeLoss="0.00"/>
+    </personinfo>
+    <personinfo id="passenger_2" depart="0.00" type="DEFAULT_PEDTYPE" speedFactor="1.01" duration="87.00" waitingTime="62.00" timeLoss="0.00" traveltime="25.00">
+        <ride waitingTime="62.00" vehicle="jeepney_0" depart="62.00" arrival="87.00" arrivalPos="50.00" duration="25.00" routeLength="104.00" timeLoss="0.00"/>
+    </personinfo>
+    <personinfo id="passenger_3" depart="0.00" type="DEFAULT_PEDTYPE" speedFactor="1.08" duration="92.00" waitingTime="62.00" timeLoss="0.00" traveltime="30.00">
+        <ride waitingTime="62.00" vehicle="jeepney_0" depart="62.00" arrival="92.00" arrivalPos="50.00" duration="30.00" routeLength="104.00" timeLoss="0.00"/>
+    </personinfo>
+    <personinfo id="passenger_4" depart="0.00" type="DEFAULT_PEDTYPE" speedFactor="1.03" duration="97.00" waitingTime="62.00" timeLoss="0.00" traveltime="35.00">
+        <ride waitingTime="62.00" vehicle="jeepney_0" depart="62.00" arrival="97.00" arrivalPos="50.00" duration="35.00" routeLength="104.00" timeLoss="0.00"/>
+    </personinfo>
+</tripinfos>

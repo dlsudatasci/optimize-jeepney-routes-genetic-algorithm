@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-10-21T17:39:38.499850+00:00 by Eclipse SUMO sumo 1.28.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="grid.net.xml"/>
+        <route-files value="baseline.rou.xml"/>
+        <additional-files value="stops.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="baseline_trips.xml"/>
+        <stop-output value="baseline_stops.xml"/>
+    </output>
+
+    <time>
+        <end value="300"/>
+        <step-length value="1"/>
+    </time>
+
+    <report>
+        <no-step-log value="true"/>
+    </report>
+
+    <mesoscopic>
+        <mesosim value="false"/>
+    </mesoscopic>
+
+</sumoConfiguration>
+-->
+
+<stops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/stopinfo_file.xsd">
+    <stopinfo id="jeepney_0" type="jeepney" lane="A0B0_0" pos="50.00" parking="0" started="37.00" ended="38.00" busStop="stop_A" initialPersons="0" loadedPersons="0" unloadedPersons="0" initialContainers="0" loadedContainers="0" unloadedContainers="0" blockedDuration="0.00"/>
+    <stopinfo id="jeepney_0" type="jeepney" lane="B0C0_0" pos="50.00" parking="0" started="54.00" ended="55.00" busStop="stop_B" initialPersons="0" loadedPersons="0" unloadedPersons="0" initialContainers="0" loadedContainers="0" unloadedContainers="0" blockedDuration="0.00"/>
+</stops>

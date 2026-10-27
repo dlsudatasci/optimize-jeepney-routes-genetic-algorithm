@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+    <connection
+        from="e_1315_6525656067_0"
+        to="e_6525656067_1314_0"
+        fromLane="0"
+        toLane="0"/>
+
+    <connection
+        from="e_1658_9791018387_0"
+        to="e_9791018387_1657_0"
+        fromLane="0"
+        toLane="0"/>
+
+    <connection
+        from="e_1922_12015446657_0"
+        to="e_12015446657_1923_0"
+        fromLane="0"
+        toLane="0"/>
+
+    <connection
+        from="e_2586_1399440591_0"
+        to="e_1399440591_2585_0"
+        fromLane="0"
+        toLane="0"/>
+</connections>

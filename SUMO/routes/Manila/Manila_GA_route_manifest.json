@@ -1,0 +1,7070 @@
+{
+  "0-A": {
+    "stops": [
+      {
+        "node_id": "417",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "434",
+        "road_node_index": 36
+      },
+      {
+        "node_id": "3658",
+        "road_node_index": 74
+      },
+      {
+        "node_id": "1807",
+        "road_node_index": 103
+      },
+      {
+        "node_id": "1767",
+        "road_node_index": 116
+      },
+      {
+        "node_id": "1106",
+        "road_node_index": 156
+      },
+      {
+        "node_id": "1216",
+        "road_node_index": 194
+      },
+      {
+        "node_id": "3376",
+        "road_node_index": 266
+      },
+      {
+        "node_id": "3309",
+        "road_node_index": 302
+      },
+      {
+        "node_id": "2984",
+        "road_node_index": 335
+      },
+      {
+        "node_id": "3028",
+        "road_node_index": 349
+      }
+    ],
+    "edge_count": 349
+  },
+  "1-A": {
+    "stops": [
+      {
+        "node_id": "2854",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2380",
+        "road_node_index": 25
+      },
+      {
+        "node_id": "2337",
+        "road_node_index": 45
+      },
+      {
+        "node_id": "3304",
+        "road_node_index": 65
+      },
+      {
+        "node_id": "3339",
+        "road_node_index": 79
+      },
+      {
+        "node_id": "2349",
+        "road_node_index": 116
+      },
+      {
+        "node_id": "2893",
+        "road_node_index": 146
+      },
+      {
+        "node_id": "1049",
+        "road_node_index": 175
+      },
+      {
+        "node_id": "2670",
+        "road_node_index": 207
+      },
+      {
+        "node_id": "1242",
+        "road_node_index": 226
+      },
+      {
+        "node_id": "961",
+        "road_node_index": 243
+      },
+      {
+        "node_id": "3472",
+        "road_node_index": 286
+      }
+    ],
+    "edge_count": 286
+  },
+  "2-A": {
+    "stops": [
+      {
+        "node_id": "3434",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1151",
+        "road_node_index": 39
+      },
+      {
+        "node_id": "1628",
+        "road_node_index": 83
+      },
+      {
+        "node_id": "1537",
+        "road_node_index": 132
+      },
+      {
+        "node_id": "1765",
+        "road_node_index": 192
+      },
+      {
+        "node_id": "3494",
+        "road_node_index": 229
+      },
+      {
+        "node_id": "3290",
+        "road_node_index": 292
+      },
+      {
+        "node_id": "3700",
+        "road_node_index": 353
+      }
+    ],
+    "edge_count": 353
+  },
+  "3-A": {
+    "stops": [
+      {
+        "node_id": "663",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3247",
+        "road_node_index": 59
+      },
+      {
+        "node_id": "3548",
+        "road_node_index": 106
+      },
+      {
+        "node_id": "3733",
+        "road_node_index": 166
+      },
+      {
+        "node_id": "790",
+        "road_node_index": 197
+      },
+      {
+        "node_id": "285",
+        "road_node_index": 233
+      },
+      {
+        "node_id": "3307",
+        "road_node_index": 285
+      },
+      {
+        "node_id": "326",
+        "road_node_index": 308
+      }
+    ],
+    "edge_count": 308
+  },
+  "4-A": {
+    "stops": [
+      {
+        "node_id": "29",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3526",
+        "road_node_index": 31
+      },
+      {
+        "node_id": "251",
+        "road_node_index": 73
+      },
+      {
+        "node_id": "2036",
+        "road_node_index": 122
+      },
+      {
+        "node_id": "3283",
+        "road_node_index": 170
+      },
+      {
+        "node_id": "477",
+        "road_node_index": 200
+      },
+      {
+        "node_id": "3732",
+        "road_node_index": 269
+      },
+      {
+        "node_id": "1781",
+        "road_node_index": 301
+      }
+    ],
+    "edge_count": 301
+  },
+  "5-A": {
+    "stops": [
+      {
+        "node_id": "1773",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1716",
+        "road_node_index": 43
+      },
+      {
+        "node_id": "1781",
+        "road_node_index": 94
+      },
+      {
+        "node_id": "119",
+        "road_node_index": 122
+      },
+      {
+        "node_id": "453",
+        "road_node_index": 152
+      },
+      {
+        "node_id": "23",
+        "road_node_index": 209
+      },
+      {
+        "node_id": "111",
+        "road_node_index": 251
+      },
+      {
+        "node_id": "379",
+        "road_node_index": 269
+      },
+      {
+        "node_id": "791",
+        "road_node_index": 338
+      }
+    ],
+    "edge_count": 338
+  },
+  "6-A": {
+    "stops": [
+      {
+        "node_id": "3730",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3120",
+        "road_node_index": 50
+      },
+      {
+        "node_id": "3162",
+        "road_node_index": 72
+      },
+      {
+        "node_id": "3648",
+        "road_node_index": 118
+      },
+      {
+        "node_id": "2472",
+        "road_node_index": 144
+      },
+      {
+        "node_id": "2213",
+        "road_node_index": 190
+      },
+      {
+        "node_id": "3442",
+        "road_node_index": 239
+      },
+      {
+        "node_id": "2375",
+        "road_node_index": 275
+      }
+    ],
+    "edge_count": 275
+  },
+  "7-A": {
+    "stops": [
+      {
+        "node_id": "3146",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1069",
+        "road_node_index": 88
+      },
+      {
+        "node_id": "1237",
+        "road_node_index": 103
+      },
+      {
+        "node_id": "2121",
+        "road_node_index": 132
+      },
+      {
+        "node_id": "2001",
+        "road_node_index": 190
+      },
+      {
+        "node_id": "1392",
+        "road_node_index": 217
+      },
+      {
+        "node_id": "1591",
+        "road_node_index": 296
+      },
+      {
+        "node_id": "1609",
+        "road_node_index": 308
+      },
+      {
+        "node_id": "1328",
+        "road_node_index": 351
+      }
+    ],
+    "edge_count": 351
+  },
+  "8-A": {
+    "stops": [
+      {
+        "node_id": "247",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1782",
+        "road_node_index": 28
+      },
+      {
+        "node_id": "798",
+        "road_node_index": 88
+      },
+      {
+        "node_id": "2562",
+        "road_node_index": 140
+      },
+      {
+        "node_id": "2447",
+        "road_node_index": 164
+      },
+      {
+        "node_id": "2495",
+        "road_node_index": 189
+      },
+      {
+        "node_id": "2252",
+        "road_node_index": 198
+      },
+      {
+        "node_id": "1545",
+        "road_node_index": 225
+      },
+      {
+        "node_id": "1266",
+        "road_node_index": 250
+      },
+      {
+        "node_id": "949",
+        "road_node_index": 283
+      },
+      {
+        "node_id": "2131",
+        "road_node_index": 292
+      }
+    ],
+    "edge_count": 292
+  },
+  "9-A": {
+    "stops": [
+      {
+        "node_id": "2913",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2915",
+        "road_node_index": 20
+      },
+      {
+        "node_id": "2766",
+        "road_node_index": 57
+      },
+      {
+        "node_id": "2593",
+        "road_node_index": 80
+      },
+      {
+        "node_id": "2769",
+        "road_node_index": 134
+      },
+      {
+        "node_id": "3134",
+        "road_node_index": 160
+      },
+      {
+        "node_id": "2582",
+        "road_node_index": 179
+      },
+      {
+        "node_id": "2310",
+        "road_node_index": 223
+      },
+      {
+        "node_id": "1624",
+        "road_node_index": 276
+      }
+    ],
+    "edge_count": 276
+  },
+  "10-A": {
+    "stops": [
+      {
+        "node_id": "2826",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3494",
+        "road_node_index": 41
+      },
+      {
+        "node_id": "3266",
+        "road_node_index": 77
+      },
+      {
+        "node_id": "2194",
+        "road_node_index": 123
+      },
+      {
+        "node_id": "2166",
+        "road_node_index": 149
+      },
+      {
+        "node_id": "3313",
+        "road_node_index": 180
+      },
+      {
+        "node_id": "1088",
+        "road_node_index": 200
+      },
+      {
+        "node_id": "1153",
+        "road_node_index": 231
+      },
+      {
+        "node_id": "3074",
+        "road_node_index": 297
+      },
+      {
+        "node_id": "2354",
+        "road_node_index": 324
+      },
+      {
+        "node_id": "3501",
+        "road_node_index": 352
+      }
+    ],
+    "edge_count": 352
+  },
+  "11-A": {
+    "stops": [
+      {
+        "node_id": "2796",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2630",
+        "road_node_index": 34
+      },
+      {
+        "node_id": "2746",
+        "road_node_index": 86
+      },
+      {
+        "node_id": "2944",
+        "road_node_index": 106
+      },
+      {
+        "node_id": "3278",
+        "road_node_index": 123
+      },
+      {
+        "node_id": "3363",
+        "road_node_index": 147
+      },
+      {
+        "node_id": "2368",
+        "road_node_index": 212
+      },
+      {
+        "node_id": "3615",
+        "road_node_index": 241
+      },
+      {
+        "node_id": "2297",
+        "road_node_index": 262
+      }
+    ],
+    "edge_count": 262
+  },
+  "12-A": {
+    "stops": [
+      {
+        "node_id": "2997",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2487",
+        "road_node_index": 59
+      },
+      {
+        "node_id": "2229",
+        "road_node_index": 83
+      },
+      {
+        "node_id": "3270",
+        "road_node_index": 138
+      },
+      {
+        "node_id": "2987",
+        "road_node_index": 230
+      },
+      {
+        "node_id": "3109",
+        "road_node_index": 250
+      },
+      {
+        "node_id": "2949",
+        "road_node_index": 275
+      }
+    ],
+    "edge_count": 275
+  },
+  "13-A": {
+    "stops": [
+      {
+        "node_id": "3641",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3680",
+        "road_node_index": 13
+      },
+      {
+        "node_id": "685",
+        "road_node_index": 64
+      },
+      {
+        "node_id": "227",
+        "road_node_index": 76
+      },
+      {
+        "node_id": "203",
+        "road_node_index": 85
+      },
+      {
+        "node_id": "147",
+        "road_node_index": 129
+      },
+      {
+        "node_id": "476",
+        "road_node_index": 158
+      },
+      {
+        "node_id": "30",
+        "road_node_index": 183
+      },
+      {
+        "node_id": "513",
+        "road_node_index": 225
+      },
+      {
+        "node_id": "3721",
+        "road_node_index": 269
+      },
+      {
+        "node_id": "725",
+        "road_node_index": 310
+      }
+    ],
+    "edge_count": 310
+  },
+  "14-A": {
+    "stops": [
+      {
+        "node_id": "1447",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2679",
+        "road_node_index": 43
+      },
+      {
+        "node_id": "907",
+        "road_node_index": 92
+      },
+      {
+        "node_id": "3477",
+        "road_node_index": 122
+      },
+      {
+        "node_id": "1587",
+        "road_node_index": 243
+      },
+      {
+        "node_id": "1689",
+        "road_node_index": 270
+      },
+      {
+        "node_id": "3698",
+        "road_node_index": 308
+      },
+      {
+        "node_id": "3631",
+        "road_node_index": 330
+      }
+    ],
+    "edge_count": 330
+  },
+  "15-A": {
+    "stops": [
+      {
+        "node_id": "3275",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2602",
+        "road_node_index": 41
+      },
+      {
+        "node_id": "2477",
+        "road_node_index": 82
+      },
+      {
+        "node_id": "2908",
+        "road_node_index": 121
+      },
+      {
+        "node_id": "3616",
+        "road_node_index": 202
+      },
+      {
+        "node_id": "1080",
+        "road_node_index": 303
+      },
+      {
+        "node_id": "3702",
+        "road_node_index": 361
+      },
+      {
+        "node_id": "2497",
+        "road_node_index": 425
+      }
+    ],
+    "edge_count": 425
+  },
+  "16-A": {
+    "stops": [
+      {
+        "node_id": "2847",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1267",
+        "road_node_index": 26
+      },
+      {
+        "node_id": "1313",
+        "road_node_index": 70
+      },
+      {
+        "node_id": "2176",
+        "road_node_index": 126
+      },
+      {
+        "node_id": "1968",
+        "road_node_index": 171
+      },
+      {
+        "node_id": "1811",
+        "road_node_index": 203
+      },
+      {
+        "node_id": "1961",
+        "road_node_index": 252
+      },
+      {
+        "node_id": "677",
+        "road_node_index": 305
+      }
+    ],
+    "edge_count": 305
+  },
+  "17-A": {
+    "stops": [
+      {
+        "node_id": "1629",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3594",
+        "road_node_index": 45
+      },
+      {
+        "node_id": "1477",
+        "road_node_index": 101
+      },
+      {
+        "node_id": "1329",
+        "road_node_index": 137
+      },
+      {
+        "node_id": "2154",
+        "road_node_index": 170
+      },
+      {
+        "node_id": "2851",
+        "road_node_index": 216
+      },
+      {
+        "node_id": "3686",
+        "road_node_index": 259
+      },
+      {
+        "node_id": "3614",
+        "road_node_index": 325
+      }
+    ],
+    "edge_count": 325
+  },
+  "18-A": {
+    "stops": [
+      {
+        "node_id": "3666",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "250",
+        "road_node_index": 27
+      },
+      {
+        "node_id": "2088",
+        "road_node_index": 78
+      },
+      {
+        "node_id": "16",
+        "road_node_index": 95
+      },
+      {
+        "node_id": "828",
+        "road_node_index": 182
+      },
+      {
+        "node_id": "397",
+        "road_node_index": 249
+      }
+    ],
+    "edge_count": 249
+  },
+  "19-A": {
+    "stops": [
+      {
+        "node_id": "1331",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "972",
+        "road_node_index": 58
+      },
+      {
+        "node_id": "1472",
+        "road_node_index": 124
+      },
+      {
+        "node_id": "1562",
+        "road_node_index": 137
+      },
+      {
+        "node_id": "2906",
+        "road_node_index": 190
+      },
+      {
+        "node_id": "1509",
+        "road_node_index": 233
+      },
+      {
+        "node_id": "3446",
+        "road_node_index": 272
+      },
+      {
+        "node_id": "1520",
+        "road_node_index": 305
+      }
+    ],
+    "edge_count": 305
+  },
+  "20-A": {
+    "stops": [
+      {
+        "node_id": "902",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1772",
+        "road_node_index": 50
+      },
+      {
+        "node_id": "1112",
+        "road_node_index": 91
+      },
+      {
+        "node_id": "1476",
+        "road_node_index": 137
+      },
+      {
+        "node_id": "2011",
+        "road_node_index": 165
+      },
+      {
+        "node_id": "1057",
+        "road_node_index": 209
+      },
+      {
+        "node_id": "1187",
+        "road_node_index": 252
+      }
+    ],
+    "edge_count": 252
+  },
+  "21-A": {
+    "stops": [
+      {
+        "node_id": "2301",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3483",
+        "road_node_index": 22
+      },
+      {
+        "node_id": "1419",
+        "road_node_index": 99
+      },
+      {
+        "node_id": "3373",
+        "road_node_index": 138
+      },
+      {
+        "node_id": "2038",
+        "road_node_index": 194
+      },
+      {
+        "node_id": "2396",
+        "road_node_index": 240
+      },
+      {
+        "node_id": "3736",
+        "road_node_index": 271
+      },
+      {
+        "node_id": "1286",
+        "road_node_index": 284
+      },
+      {
+        "node_id": "2480",
+        "road_node_index": 369
+      }
+    ],
+    "edge_count": 369
+  },
+  "22-A": {
+    "stops": [
+      {
+        "node_id": "1039",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "923",
+        "road_node_index": 60
+      },
+      {
+        "node_id": "1046",
+        "road_node_index": 92
+      },
+      {
+        "node_id": "2583",
+        "road_node_index": 146
+      },
+      {
+        "node_id": "3379",
+        "road_node_index": 221
+      },
+      {
+        "node_id": "1258",
+        "road_node_index": 238
+      },
+      {
+        "node_id": "1460",
+        "road_node_index": 286
+      },
+      {
+        "node_id": "2759",
+        "road_node_index": 312
+      }
+    ],
+    "edge_count": 312
+  },
+  "23-A": {
+    "stops": [
+      {
+        "node_id": "1818",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3734",
+        "road_node_index": 37
+      },
+      {
+        "node_id": "1947",
+        "road_node_index": 69
+      },
+      {
+        "node_id": "1041",
+        "road_node_index": 128
+      },
+      {
+        "node_id": "3472",
+        "road_node_index": 177
+      },
+      {
+        "node_id": "1502",
+        "road_node_index": 215
+      },
+      {
+        "node_id": "3569",
+        "road_node_index": 259
+      },
+      {
+        "node_id": "927",
+        "road_node_index": 317
+      }
+    ],
+    "edge_count": 317
+  },
+  "24-A": {
+    "stops": [
+      {
+        "node_id": "2143",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1207",
+        "road_node_index": 94
+      },
+      {
+        "node_id": "1286",
+        "road_node_index": 193
+      },
+      {
+        "node_id": "1520",
+        "road_node_index": 224
+      },
+      {
+        "node_id": "3506",
+        "road_node_index": 264
+      },
+      {
+        "node_id": "1641",
+        "road_node_index": 293
+      },
+      {
+        "node_id": "2355",
+        "road_node_index": 363
+      }
+    ],
+    "edge_count": 363
+  },
+  "25-A": {
+    "stops": [
+      {
+        "node_id": "272",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "32",
+        "road_node_index": 71
+      },
+      {
+        "node_id": "3488",
+        "road_node_index": 90
+      },
+      {
+        "node_id": "109",
+        "road_node_index": 120
+      },
+      {
+        "node_id": "3533",
+        "road_node_index": 157
+      },
+      {
+        "node_id": "95",
+        "road_node_index": 203
+      },
+      {
+        "node_id": "3413",
+        "road_node_index": 229
+      },
+      {
+        "node_id": "83",
+        "road_node_index": 275
+      }
+    ],
+    "edge_count": 275
+  },
+  "26-A": {
+    "stops": [
+      {
+        "node_id": "3074",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "915",
+        "road_node_index": 68
+      },
+      {
+        "node_id": "3326",
+        "road_node_index": 107
+      },
+      {
+        "node_id": "1308",
+        "road_node_index": 150
+      },
+      {
+        "node_id": "3388",
+        "road_node_index": 202
+      },
+      {
+        "node_id": "3621",
+        "road_node_index": 276
+      },
+      {
+        "node_id": "3147",
+        "road_node_index": 306
+      }
+    ],
+    "edge_count": 306
+  },
+  "27-A": {
+    "stops": [
+      {
+        "node_id": "1213",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2169",
+        "road_node_index": 55
+      },
+      {
+        "node_id": "880",
+        "road_node_index": 165
+      },
+      {
+        "node_id": "29",
+        "road_node_index": 210
+      },
+      {
+        "node_id": "1873",
+        "road_node_index": 257
+      },
+      {
+        "node_id": "3001",
+        "road_node_index": 313
+      },
+      {
+        "node_id": "3156",
+        "road_node_index": 331
+      }
+    ],
+    "edge_count": 331
+  },
+  "28-A": {
+    "stops": [
+      {
+        "node_id": "3109",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3483",
+        "road_node_index": 29
+      },
+      {
+        "node_id": "3156",
+        "road_node_index": 67
+      },
+      {
+        "node_id": "2977",
+        "road_node_index": 99
+      },
+      {
+        "node_id": "3454",
+        "road_node_index": 145
+      },
+      {
+        "node_id": "2852",
+        "road_node_index": 179
+      },
+      {
+        "node_id": "3376",
+        "road_node_index": 216
+      },
+      {
+        "node_id": "1121",
+        "road_node_index": 260
+      },
+      {
+        "node_id": "1078",
+        "road_node_index": 282
+      }
+    ],
+    "edge_count": 282
+  },
+  "29-A": {
+    "stops": [
+      {
+        "node_id": "1277",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1681",
+        "road_node_index": 45
+      },
+      {
+        "node_id": "1036",
+        "road_node_index": 108
+      },
+      {
+        "node_id": "1180",
+        "road_node_index": 126
+      },
+      {
+        "node_id": "1191",
+        "road_node_index": 134
+      },
+      {
+        "node_id": "1030",
+        "road_node_index": 149
+      },
+      {
+        "node_id": "1227",
+        "road_node_index": 196
+      },
+      {
+        "node_id": "2301",
+        "road_node_index": 236
+      },
+      {
+        "node_id": "1625",
+        "road_node_index": 297
+      }
+    ],
+    "edge_count": 297
+  },
+  "30-A": {
+    "stops": [
+      {
+        "node_id": "672",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "677",
+        "road_node_index": 7
+      },
+      {
+        "node_id": "1650",
+        "road_node_index": 50
+      },
+      {
+        "node_id": "3400",
+        "road_node_index": 70
+      },
+      {
+        "node_id": "2521",
+        "road_node_index": 109
+      },
+      {
+        "node_id": "1479",
+        "road_node_index": 183
+      },
+      {
+        "node_id": "3377",
+        "road_node_index": 198
+      },
+      {
+        "node_id": "1447",
+        "road_node_index": 224
+      },
+      {
+        "node_id": "1010",
+        "road_node_index": 275
+      },
+      {
+        "node_id": "3477",
+        "road_node_index": 307
+      }
+    ],
+    "edge_count": 307
+  },
+  "31-A": {
+    "stops": [
+      {
+        "node_id": "862",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "456",
+        "road_node_index": 13
+      },
+      {
+        "node_id": "3296",
+        "road_node_index": 46
+      },
+      {
+        "node_id": "3510",
+        "road_node_index": 77
+      },
+      {
+        "node_id": "3425",
+        "road_node_index": 87
+      },
+      {
+        "node_id": "3494",
+        "road_node_index": 119
+      },
+      {
+        "node_id": "2168",
+        "road_node_index": 143
+      },
+      {
+        "node_id": "3424",
+        "road_node_index": 187
+      }
+    ],
+    "edge_count": 187
+  },
+  "32-A": {
+    "stops": [
+      {
+        "node_id": "1426",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1301",
+        "road_node_index": 85
+      },
+      {
+        "node_id": "2151",
+        "road_node_index": 155
+      },
+      {
+        "node_id": "1949",
+        "road_node_index": 199
+      },
+      {
+        "node_id": "1280",
+        "road_node_index": 227
+      },
+      {
+        "node_id": "2029",
+        "road_node_index": 281
+      },
+      {
+        "node_id": "1069",
+        "road_node_index": 381
+      },
+      {
+        "node_id": "1717",
+        "road_node_index": 424
+      }
+    ],
+    "edge_count": 424
+  },
+  "33-A": {
+    "stops": [
+      {
+        "node_id": "1005",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1268",
+        "road_node_index": 44
+      },
+      {
+        "node_id": "1256",
+        "road_node_index": 76
+      },
+      {
+        "node_id": "3358",
+        "road_node_index": 109
+      },
+      {
+        "node_id": "1314",
+        "road_node_index": 151
+      },
+      {
+        "node_id": "3286",
+        "road_node_index": 185
+      },
+      {
+        "node_id": "3330",
+        "road_node_index": 227
+      },
+      {
+        "node_id": "2046",
+        "road_node_index": 250
+      },
+      {
+        "node_id": "503",
+        "road_node_index": 288
+      }
+    ],
+    "edge_count": 288
+  },
+  "34-A": {
+    "stops": [
+      {
+        "node_id": "2469",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2105",
+        "road_node_index": 109
+      },
+      {
+        "node_id": "3378",
+        "road_node_index": 148
+      },
+      {
+        "node_id": "1284",
+        "road_node_index": 167
+      },
+      {
+        "node_id": "3551",
+        "road_node_index": 242
+      },
+      {
+        "node_id": "3604",
+        "road_node_index": 287
+      },
+      {
+        "node_id": "615",
+        "road_node_index": 334
+      }
+    ],
+    "edge_count": 334
+  },
+  "35-A": {
+    "stops": [
+      {
+        "node_id": "250",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "53",
+        "road_node_index": 22
+      },
+      {
+        "node_id": "3467",
+        "road_node_index": 63
+      },
+      {
+        "node_id": "3631",
+        "road_node_index": 86
+      },
+      {
+        "node_id": "804",
+        "road_node_index": 110
+      },
+      {
+        "node_id": "3671",
+        "road_node_index": 141
+      },
+      {
+        "node_id": "1958",
+        "road_node_index": 191
+      },
+      {
+        "node_id": "768",
+        "road_node_index": 232
+      },
+      {
+        "node_id": "3641",
+        "road_node_index": 266
+      },
+      {
+        "node_id": "208",
+        "road_node_index": 298
+      }
+    ],
+    "edge_count": 298
+  },
+  "36-A": {
+    "stops": [
+      {
+        "node_id": "34",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3697",
+        "road_node_index": 23
+      },
+      {
+        "node_id": "2054",
+        "road_node_index": 67
+      },
+      {
+        "node_id": "1852",
+        "road_node_index": 87
+      },
+      {
+        "node_id": "3513",
+        "road_node_index": 101
+      },
+      {
+        "node_id": "57",
+        "road_node_index": 148
+      },
+      {
+        "node_id": "3721",
+        "road_node_index": 176
+      },
+      {
+        "node_id": "615",
+        "road_node_index": 211
+      },
+      {
+        "node_id": "504",
+        "road_node_index": 248
+      }
+    ],
+    "edge_count": 248
+  },
+  "37-A": {
+    "stops": [
+      {
+        "node_id": "899",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "531",
+        "road_node_index": 44
+      },
+      {
+        "node_id": "274",
+        "road_node_index": 85
+      },
+      {
+        "node_id": "649",
+        "road_node_index": 126
+      },
+      {
+        "node_id": "3738",
+        "road_node_index": 151
+      },
+      {
+        "node_id": "683",
+        "road_node_index": 172
+      },
+      {
+        "node_id": "162",
+        "road_node_index": 207
+      },
+      {
+        "node_id": "3721",
+        "road_node_index": 238
+      },
+      {
+        "node_id": "3744",
+        "road_node_index": 263
+      },
+      {
+        "node_id": "149",
+        "road_node_index": 289
+      }
+    ],
+    "edge_count": 289
+  },
+  "38-A": {
+    "stops": [
+      {
+        "node_id": "1306",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3408",
+        "road_node_index": 50
+      },
+      {
+        "node_id": "3314",
+        "road_node_index": 75
+      },
+      {
+        "node_id": "2111",
+        "road_node_index": 121
+      },
+      {
+        "node_id": "1597",
+        "road_node_index": 177
+      },
+      {
+        "node_id": "1494",
+        "road_node_index": 236
+      },
+      {
+        "node_id": "3148",
+        "road_node_index": 278
+      },
+      {
+        "node_id": "2102",
+        "road_node_index": 322
+      },
+      {
+        "node_id": "1773",
+        "road_node_index": 335
+      },
+      {
+        "node_id": "3305",
+        "road_node_index": 381
+      }
+    ],
+    "edge_count": 381
+  },
+  "39-A": {
+    "stops": [
+      {
+        "node_id": "927",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3479",
+        "road_node_index": 43
+      },
+      {
+        "node_id": "1746",
+        "road_node_index": 75
+      },
+      {
+        "node_id": "1027",
+        "road_node_index": 96
+      },
+      {
+        "node_id": "3434",
+        "road_node_index": 149
+      },
+      {
+        "node_id": "947",
+        "road_node_index": 170
+      },
+      {
+        "node_id": "2765",
+        "road_node_index": 208
+      },
+      {
+        "node_id": "2816",
+        "road_node_index": 232
+      },
+      {
+        "node_id": "2403",
+        "road_node_index": 265
+      },
+      {
+        "node_id": "2760",
+        "road_node_index": 293
+      }
+    ],
+    "edge_count": 293
+  },
+  "40-A": {
+    "stops": [
+      {
+        "node_id": "3299",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2245",
+        "road_node_index": 46
+      },
+      {
+        "node_id": "2318",
+        "road_node_index": 78
+      },
+      {
+        "node_id": "3344",
+        "road_node_index": 110
+      },
+      {
+        "node_id": "2398",
+        "road_node_index": 151
+      },
+      {
+        "node_id": "2997",
+        "road_node_index": 168
+      },
+      {
+        "node_id": "1244",
+        "road_node_index": 256
+      },
+      {
+        "node_id": "3316",
+        "road_node_index": 306
+      }
+    ],
+    "edge_count": 306
+  },
+  "41-A": {
+    "stops": [
+      {
+        "node_id": "3385",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1315",
+        "road_node_index": 14
+      },
+      {
+        "node_id": "1149",
+        "road_node_index": 90
+      },
+      {
+        "node_id": "3704",
+        "road_node_index": 124
+      },
+      {
+        "node_id": "1261",
+        "road_node_index": 139
+      },
+      {
+        "node_id": "2312",
+        "road_node_index": 154
+      },
+      {
+        "node_id": "2756",
+        "road_node_index": 187
+      },
+      {
+        "node_id": "3575",
+        "road_node_index": 215
+      },
+      {
+        "node_id": "2793",
+        "road_node_index": 242
+      }
+    ],
+    "edge_count": 242
+  },
+  "42-A": {
+    "stops": [
+      {
+        "node_id": "3057",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1045",
+        "road_node_index": 44
+      },
+      {
+        "node_id": "2076",
+        "road_node_index": 107
+      },
+      {
+        "node_id": "1791",
+        "road_node_index": 156
+      },
+      {
+        "node_id": "3587",
+        "road_node_index": 205
+      },
+      {
+        "node_id": "2231",
+        "road_node_index": 259
+      },
+      {
+        "node_id": "3366",
+        "road_node_index": 284
+      },
+      {
+        "node_id": "3616",
+        "road_node_index": 314
+      },
+      {
+        "node_id": "2384",
+        "road_node_index": 364
+      }
+    ],
+    "edge_count": 364
+  },
+  "43-A": {
+    "stops": [
+      {
+        "node_id": "1376",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3292",
+        "road_node_index": 44
+      },
+      {
+        "node_id": "1120",
+        "road_node_index": 57
+      },
+      {
+        "node_id": "3298",
+        "road_node_index": 72
+      },
+      {
+        "node_id": "2430",
+        "road_node_index": 97
+      },
+      {
+        "node_id": "3460",
+        "road_node_index": 126
+      },
+      {
+        "node_id": "1518",
+        "road_node_index": 204
+      },
+      {
+        "node_id": "1942",
+        "road_node_index": 277
+      },
+      {
+        "node_id": "2322",
+        "road_node_index": 312
+      }
+    ],
+    "edge_count": 312
+  },
+  "44-A": {
+    "stops": [
+      {
+        "node_id": "2283",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3614",
+        "road_node_index": 54
+      },
+      {
+        "node_id": "3653",
+        "road_node_index": 85
+      },
+      {
+        "node_id": "114",
+        "road_node_index": 113
+      },
+      {
+        "node_id": "451",
+        "road_node_index": 135
+      },
+      {
+        "node_id": "11",
+        "road_node_index": 170
+      },
+      {
+        "node_id": "3695",
+        "road_node_index": 207
+      },
+      {
+        "node_id": "797",
+        "road_node_index": 230
+      },
+      {
+        "node_id": "1570",
+        "road_node_index": 266
+      }
+    ],
+    "edge_count": 266
+  },
+  "45-A": {
+    "stops": [
+      {
+        "node_id": "809",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "513",
+        "road_node_index": 49
+      },
+      {
+        "node_id": "136",
+        "road_node_index": 88
+      },
+      {
+        "node_id": "88",
+        "road_node_index": 135
+      },
+      {
+        "node_id": "3539",
+        "road_node_index": 153
+      },
+      {
+        "node_id": "2037",
+        "road_node_index": 218
+      },
+      {
+        "node_id": "3354",
+        "road_node_index": 266
+      },
+      {
+        "node_id": "2328",
+        "road_node_index": 283
+      },
+      {
+        "node_id": "3614",
+        "road_node_index": 303
+      }
+    ],
+    "edge_count": 303
+  },
+  "46-A": {
+    "stops": [
+      {
+        "node_id": "306",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "902",
+        "road_node_index": 43
+      },
+      {
+        "node_id": "2183",
+        "road_node_index": 82
+      },
+      {
+        "node_id": "3709",
+        "road_node_index": 133
+      },
+      {
+        "node_id": "1813",
+        "road_node_index": 163
+      },
+      {
+        "node_id": "997",
+        "road_node_index": 209
+      },
+      {
+        "node_id": "1372",
+        "road_node_index": 255
+      },
+      {
+        "node_id": "1097",
+        "road_node_index": 286
+      },
+      {
+        "node_id": "1120",
+        "road_node_index": 339
+      }
+    ],
+    "edge_count": 339
+  },
+  "47-A": {
+    "stops": [
+      {
+        "node_id": "3394",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2190",
+        "road_node_index": 9
+      },
+      {
+        "node_id": "2336",
+        "road_node_index": 87
+      },
+      {
+        "node_id": "3345",
+        "road_node_index": 133
+      },
+      {
+        "node_id": "2587",
+        "road_node_index": 205
+      },
+      {
+        "node_id": "2211",
+        "road_node_index": 270
+      },
+      {
+        "node_id": "3588",
+        "road_node_index": 303
+      }
+    ],
+    "edge_count": 303
+  },
+  "48-A": {
+    "stops": [
+      {
+        "node_id": "2198",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2031",
+        "road_node_index": 18
+      },
+      {
+        "node_id": "1500",
+        "road_node_index": 102
+      },
+      {
+        "node_id": "1315",
+        "road_node_index": 151
+      },
+      {
+        "node_id": "1609",
+        "road_node_index": 180
+      },
+      {
+        "node_id": "1248",
+        "road_node_index": 262
+      },
+      {
+        "node_id": "2371",
+        "road_node_index": 338
+      },
+      {
+        "node_id": "2766",
+        "road_node_index": 377
+      }
+    ],
+    "edge_count": 377
+  },
+  "49-A": {
+    "stops": [
+      {
+        "node_id": "703",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "96",
+        "road_node_index": 12
+      },
+      {
+        "node_id": "3695",
+        "road_node_index": 25
+      },
+      {
+        "node_id": "1943",
+        "road_node_index": 56
+      },
+      {
+        "node_id": "1869",
+        "road_node_index": 84
+      },
+      {
+        "node_id": "1568",
+        "road_node_index": 157
+      },
+      {
+        "node_id": "2826",
+        "road_node_index": 228
+      },
+      {
+        "node_id": "2932",
+        "road_node_index": 259
+      }
+    ],
+    "edge_count": 259
+  },
+  "50-A": {
+    "stops": [
+      {
+        "node_id": "1800",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1968",
+        "road_node_index": 41
+      },
+      {
+        "node_id": "740",
+        "road_node_index": 77
+      },
+      {
+        "node_id": "3581",
+        "road_node_index": 160
+      },
+      {
+        "node_id": "2008",
+        "road_node_index": 213
+      },
+      {
+        "node_id": "1735",
+        "road_node_index": 246
+      },
+      {
+        "node_id": "1629",
+        "road_node_index": 284
+      },
+      {
+        "node_id": "2108",
+        "road_node_index": 306
+      }
+    ],
+    "edge_count": 306
+  },
+  "51-A": {
+    "stops": [
+      {
+        "node_id": "3535",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "379",
+        "road_node_index": 38
+      },
+      {
+        "node_id": "892",
+        "road_node_index": 91
+      },
+      {
+        "node_id": "217",
+        "road_node_index": 112
+      },
+      {
+        "node_id": "3670",
+        "road_node_index": 166
+      },
+      {
+        "node_id": "320",
+        "road_node_index": 213
+      },
+      {
+        "node_id": "3650",
+        "road_node_index": 283
+      },
+      {
+        "node_id": "343",
+        "road_node_index": 318
+      }
+    ],
+    "edge_count": 318
+  },
+  "52-A": {
+    "stops": [
+      {
+        "node_id": "723",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "694",
+        "road_node_index": 19
+      },
+      {
+        "node_id": "734",
+        "road_node_index": 30
+      },
+      {
+        "node_id": "231",
+        "road_node_index": 47
+      },
+      {
+        "node_id": "319",
+        "road_node_index": 81
+      },
+      {
+        "node_id": "144",
+        "road_node_index": 108
+      },
+      {
+        "node_id": "711",
+        "road_node_index": 134
+      },
+      {
+        "node_id": "695",
+        "road_node_index": 168
+      },
+      {
+        "node_id": "716",
+        "road_node_index": 195
+      },
+      {
+        "node_id": "3282",
+        "road_node_index": 213
+      },
+      {
+        "node_id": "3511",
+        "road_node_index": 220
+      },
+      {
+        "node_id": "1962",
+        "road_node_index": 236
+      },
+      {
+        "node_id": "3541",
+        "road_node_index": 270
+      },
+      {
+        "node_id": "3532",
+        "road_node_index": 296
+      },
+      {
+        "node_id": "877",
+        "road_node_index": 317
+      }
+    ],
+    "edge_count": 317
+  },
+  "53-A": {
+    "stops": [
+      {
+        "node_id": "1252",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1069",
+        "road_node_index": 86
+      },
+      {
+        "node_id": "1414",
+        "road_node_index": 104
+      },
+      {
+        "node_id": "1276",
+        "road_node_index": 138
+      },
+      {
+        "node_id": "939",
+        "road_node_index": 171
+      },
+      {
+        "node_id": "1670",
+        "road_node_index": 195
+      },
+      {
+        "node_id": "3291",
+        "road_node_index": 246
+      },
+      {
+        "node_id": "3355",
+        "road_node_index": 279
+      },
+      {
+        "node_id": "1529",
+        "road_node_index": 303
+      },
+      {
+        "node_id": "2326",
+        "road_node_index": 341
+      },
+      {
+        "node_id": "3416",
+        "road_node_index": 370
+      }
+    ],
+    "edge_count": 370
+  },
+  "54-A": {
+    "stops": [
+      {
+        "node_id": "2777",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3588",
+        "road_node_index": 57
+      },
+      {
+        "node_id": "1123",
+        "road_node_index": 150
+      },
+      {
+        "node_id": "1261",
+        "road_node_index": 198
+      },
+      {
+        "node_id": "1542",
+        "road_node_index": 222
+      },
+      {
+        "node_id": "2779",
+        "road_node_index": 239
+      },
+      {
+        "node_id": "3246",
+        "road_node_index": 286
+      },
+      {
+        "node_id": "1045",
+        "road_node_index": 322
+      }
+    ],
+    "edge_count": 322
+  },
+  "55-A": {
+    "stops": [
+      {
+        "node_id": "3110",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2366",
+        "road_node_index": 38
+      },
+      {
+        "node_id": "2212",
+        "road_node_index": 73
+      },
+      {
+        "node_id": "3702",
+        "road_node_index": 143
+      },
+      {
+        "node_id": "3647",
+        "road_node_index": 211
+      },
+      {
+        "node_id": "2571",
+        "road_node_index": 246
+      },
+      {
+        "node_id": "3326",
+        "road_node_index": 321
+      }
+    ],
+    "edge_count": 321
+  },
+  "56-A": {
+    "stops": [
+      {
+        "node_id": "2680",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2959",
+        "road_node_index": 21
+      },
+      {
+        "node_id": "3362",
+        "road_node_index": 81
+      },
+      {
+        "node_id": "3409",
+        "road_node_index": 102
+      },
+      {
+        "node_id": "3098",
+        "road_node_index": 125
+      },
+      {
+        "node_id": "3352",
+        "road_node_index": 147
+      },
+      {
+        "node_id": "3016",
+        "road_node_index": 181
+      },
+      {
+        "node_id": "2667",
+        "road_node_index": 211
+      },
+      {
+        "node_id": "2953",
+        "road_node_index": 232
+      },
+      {
+        "node_id": "2202",
+        "road_node_index": 293
+      },
+      {
+        "node_id": "2237",
+        "road_node_index": 336
+      }
+    ],
+    "edge_count": 336
+  },
+  "57-A": {
+    "stops": [
+      {
+        "node_id": "2270",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2267",
+        "road_node_index": 27
+      },
+      {
+        "node_id": "3561",
+        "road_node_index": 50
+      },
+      {
+        "node_id": "3002",
+        "road_node_index": 71
+      },
+      {
+        "node_id": "3042",
+        "road_node_index": 88
+      },
+      {
+        "node_id": "2264",
+        "road_node_index": 111
+      },
+      {
+        "node_id": "2598",
+        "road_node_index": 148
+      },
+      {
+        "node_id": "2209",
+        "road_node_index": 197
+      },
+      {
+        "node_id": "3339",
+        "road_node_index": 218
+      },
+      {
+        "node_id": "1603",
+        "road_node_index": 249
+      },
+      {
+        "node_id": "1914",
+        "road_node_index": 297
+      }
+    ],
+    "edge_count": 297
+  },
+  "58-A": {
+    "stops": [
+      {
+        "node_id": "880",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3305",
+        "road_node_index": 31
+      },
+      {
+        "node_id": "1331",
+        "road_node_index": 76
+      },
+      {
+        "node_id": "1306",
+        "road_node_index": 93
+      },
+      {
+        "node_id": "1412",
+        "road_node_index": 176
+      },
+      {
+        "node_id": "1001",
+        "road_node_index": 193
+      },
+      {
+        "node_id": "2193",
+        "road_node_index": 231
+      },
+      {
+        "node_id": "1289",
+        "road_node_index": 264
+      },
+      {
+        "node_id": "1159",
+        "road_node_index": 357
+      },
+      {
+        "node_id": "1264",
+        "road_node_index": 414
+      }
+    ],
+    "edge_count": 414
+  },
+  "59-A": {
+    "stops": [
+      {
+        "node_id": "1571",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3440",
+        "road_node_index": 21
+      },
+      {
+        "node_id": "1697",
+        "road_node_index": 47
+      },
+      {
+        "node_id": "1633",
+        "road_node_index": 84
+      },
+      {
+        "node_id": "3611",
+        "road_node_index": 113
+      },
+      {
+        "node_id": "1365",
+        "road_node_index": 159
+      },
+      {
+        "node_id": "1235",
+        "road_node_index": 173
+      },
+      {
+        "node_id": "1949",
+        "road_node_index": 208
+      },
+      {
+        "node_id": "3649",
+        "road_node_index": 236
+      },
+      {
+        "node_id": "3421",
+        "road_node_index": 250
+      }
+    ],
+    "edge_count": 250
+  },
+  "60-A": {
+    "stops": [
+      {
+        "node_id": "2008",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2136",
+        "road_node_index": 28
+      },
+      {
+        "node_id": "1903",
+        "road_node_index": 66
+      },
+      {
+        "node_id": "1946",
+        "road_node_index": 98
+      },
+      {
+        "node_id": "1288",
+        "road_node_index": 119
+      },
+      {
+        "node_id": "1721",
+        "road_node_index": 153
+      },
+      {
+        "node_id": "1465",
+        "road_node_index": 192
+      },
+      {
+        "node_id": "3456",
+        "road_node_index": 210
+      },
+      {
+        "node_id": "3366",
+        "road_node_index": 250
+      },
+      {
+        "node_id": "3485",
+        "road_node_index": 268
+      }
+    ],
+    "edge_count": 268
+  },
+  "61-A": {
+    "stops": [
+      {
+        "node_id": "652",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "321",
+        "road_node_index": 39
+      },
+      {
+        "node_id": "769",
+        "road_node_index": 94
+      },
+      {
+        "node_id": "820",
+        "road_node_index": 143
+      },
+      {
+        "node_id": "3694",
+        "road_node_index": 209
+      },
+      {
+        "node_id": "3532",
+        "road_node_index": 237
+      },
+      {
+        "node_id": "3549",
+        "road_node_index": 240
+      },
+      {
+        "node_id": "179",
+        "road_node_index": 276
+      },
+      {
+        "node_id": "1658",
+        "road_node_index": 300
+      }
+    ],
+    "edge_count": 300
+  },
+  "62-A": {
+    "stops": [
+      {
+        "node_id": "1048",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3372",
+        "road_node_index": 19
+      },
+      {
+        "node_id": "950",
+        "road_node_index": 52
+      },
+      {
+        "node_id": "1360",
+        "road_node_index": 80
+      },
+      {
+        "node_id": "1424",
+        "road_node_index": 121
+      },
+      {
+        "node_id": "1236",
+        "road_node_index": 175
+      },
+      {
+        "node_id": "3380",
+        "road_node_index": 188
+      },
+      {
+        "node_id": "3612",
+        "road_node_index": 210
+      },
+      {
+        "node_id": "3006",
+        "road_node_index": 248
+      },
+      {
+        "node_id": "2399",
+        "road_node_index": 282
+      },
+      {
+        "node_id": "2266",
+        "road_node_index": 291
+      },
+      {
+        "node_id": "3454",
+        "road_node_index": 327
+      }
+    ],
+    "edge_count": 327
+  },
+  "63-A": {
+    "stops": [
+      {
+        "node_id": "663",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "135",
+        "road_node_index": 24
+      },
+      {
+        "node_id": "3725",
+        "road_node_index": 52
+      },
+      {
+        "node_id": "501",
+        "road_node_index": 106
+      },
+      {
+        "node_id": "3284",
+        "road_node_index": 122
+      },
+      {
+        "node_id": "3600",
+        "road_node_index": 153
+      },
+      {
+        "node_id": "447",
+        "road_node_index": 166
+      },
+      {
+        "node_id": "1637",
+        "road_node_index": 215
+      },
+      {
+        "node_id": "3487",
+        "road_node_index": 224
+      },
+      {
+        "node_id": "1699",
+        "road_node_index": 265
+      }
+    ],
+    "edge_count": 265
+  },
+  "64-A": {
+    "stops": [
+      {
+        "node_id": "3220",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3049",
+        "road_node_index": 34
+      },
+      {
+        "node_id": "2262",
+        "road_node_index": 70
+      },
+      {
+        "node_id": "3352",
+        "road_node_index": 101
+      },
+      {
+        "node_id": "3558",
+        "road_node_index": 114
+      },
+      {
+        "node_id": "3564",
+        "road_node_index": 137
+      },
+      {
+        "node_id": "3025",
+        "road_node_index": 202
+      },
+      {
+        "node_id": "2872",
+        "road_node_index": 235
+      },
+      {
+        "node_id": "2804",
+        "road_node_index": 250
+      },
+      {
+        "node_id": "2628",
+        "road_node_index": 271
+      }
+    ],
+    "edge_count": 271
+  },
+  "65-A": {
+    "stops": [
+      {
+        "node_id": "2962",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1416",
+        "road_node_index": 29
+      },
+      {
+        "node_id": "2774",
+        "road_node_index": 79
+      },
+      {
+        "node_id": "2444",
+        "road_node_index": 137
+      },
+      {
+        "node_id": "3435",
+        "road_node_index": 161
+      },
+      {
+        "node_id": "2467",
+        "road_node_index": 181
+      },
+      {
+        "node_id": "3503",
+        "road_node_index": 220
+      },
+      {
+        "node_id": "1263",
+        "road_node_index": 244
+      },
+      {
+        "node_id": "3304",
+        "road_node_index": 268
+      },
+      {
+        "node_id": "3623",
+        "road_node_index": 311
+      }
+    ],
+    "edge_count": 311
+  },
+  "66-A": {
+    "stops": [
+      {
+        "node_id": "1301",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2507",
+        "road_node_index": 49
+      },
+      {
+        "node_id": "1521",
+        "road_node_index": 150
+      },
+      {
+        "node_id": "3335",
+        "road_node_index": 178
+      },
+      {
+        "node_id": "2613",
+        "road_node_index": 215
+      },
+      {
+        "node_id": "3279",
+        "road_node_index": 225
+      },
+      {
+        "node_id": "3552",
+        "road_node_index": 267
+      },
+      {
+        "node_id": "2809",
+        "road_node_index": 309
+      }
+    ],
+    "edge_count": 309
+  },
+  "67-A": {
+    "stops": [
+      {
+        "node_id": "3646",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2066",
+        "road_node_index": 34
+      },
+      {
+        "node_id": "194",
+        "road_node_index": 61
+      },
+      {
+        "node_id": "561",
+        "road_node_index": 82
+      },
+      {
+        "node_id": "183",
+        "road_node_index": 110
+      },
+      {
+        "node_id": "28",
+        "road_node_index": 150
+      },
+      {
+        "node_id": "3491",
+        "road_node_index": 173
+      },
+      {
+        "node_id": "3670",
+        "road_node_index": 203
+      },
+      {
+        "node_id": "33",
+        "road_node_index": 236
+      },
+      {
+        "node_id": "3481",
+        "road_node_index": 260
+      },
+      {
+        "node_id": "797",
+        "road_node_index": 300
+      },
+      {
+        "node_id": "2088",
+        "road_node_index": 311
+      }
+    ],
+    "edge_count": 311
+  },
+  "68-A": {
+    "stops": [
+      {
+        "node_id": "1380",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "962",
+        "road_node_index": 12
+      },
+      {
+        "node_id": "1141",
+        "road_node_index": 33
+      },
+      {
+        "node_id": "2730",
+        "road_node_index": 59
+      },
+      {
+        "node_id": "2173",
+        "road_node_index": 101
+      },
+      {
+        "node_id": "1272",
+        "road_node_index": 120
+      },
+      {
+        "node_id": "1547",
+        "road_node_index": 171
+      },
+      {
+        "node_id": "3379",
+        "road_node_index": 231
+      },
+      {
+        "node_id": "1689",
+        "road_node_index": 275
+      },
+      {
+        "node_id": "1946",
+        "road_node_index": 325
+      }
+    ],
+    "edge_count": 325
+  },
+  "69-A": {
+    "stops": [
+      {
+        "node_id": "3586",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1567",
+        "road_node_index": 8
+      },
+      {
+        "node_id": "3520",
+        "road_node_index": 62
+      },
+      {
+        "node_id": "2748",
+        "road_node_index": 100
+      },
+      {
+        "node_id": "3691",
+        "road_node_index": 140
+      },
+      {
+        "node_id": "2337",
+        "road_node_index": 156
+      },
+      {
+        "node_id": "2431",
+        "road_node_index": 179
+      },
+      {
+        "node_id": "2045",
+        "road_node_index": 222
+      },
+      {
+        "node_id": "740",
+        "road_node_index": 273
+      }
+    ],
+    "edge_count": 273
+  },
+  "70-A": {
+    "stops": [
+      {
+        "node_id": "290",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "893",
+        "road_node_index": 29
+      },
+      {
+        "node_id": "441",
+        "road_node_index": 94
+      },
+      {
+        "node_id": "525",
+        "road_node_index": 171
+      },
+      {
+        "node_id": "179",
+        "road_node_index": 224
+      },
+      {
+        "node_id": "236",
+        "road_node_index": 262
+      },
+      {
+        "node_id": "690",
+        "road_node_index": 285
+      }
+    ],
+    "edge_count": 285
+  },
+  "71-A": {
+    "stops": [
+      {
+        "node_id": "1438",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1261",
+        "road_node_index": 55
+      },
+      {
+        "node_id": "2186",
+        "road_node_index": 108
+      },
+      {
+        "node_id": "3508",
+        "road_node_index": 124
+      },
+      {
+        "node_id": "1293",
+        "road_node_index": 175
+      },
+      {
+        "node_id": "1798",
+        "road_node_index": 210
+      },
+      {
+        "node_id": "3147",
+        "road_node_index": 265
+      },
+      {
+        "node_id": "2779",
+        "road_node_index": 277
+      },
+      {
+        "node_id": "2121",
+        "road_node_index": 300
+      }
+    ],
+    "edge_count": 300
+  },
+  "72-A": {
+    "stops": [
+      {
+        "node_id": "1313",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3388",
+        "road_node_index": 46
+      },
+      {
+        "node_id": "1774",
+        "road_node_index": 70
+      },
+      {
+        "node_id": "1544",
+        "road_node_index": 113
+      },
+      {
+        "node_id": "2641",
+        "road_node_index": 161
+      },
+      {
+        "node_id": "1520",
+        "road_node_index": 203
+      },
+      {
+        "node_id": "2854",
+        "road_node_index": 228
+      },
+      {
+        "node_id": "3301",
+        "road_node_index": 256
+      },
+      {
+        "node_id": "3359",
+        "road_node_index": 283
+      }
+    ],
+    "edge_count": 283
+  },
+  "73-A": {
+    "stops": [
+      {
+        "node_id": "68",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "678",
+        "road_node_index": 16
+      },
+      {
+        "node_id": "717",
+        "road_node_index": 65
+      },
+      {
+        "node_id": "3693",
+        "road_node_index": 98
+      },
+      {
+        "node_id": "3546",
+        "road_node_index": 125
+      },
+      {
+        "node_id": "2417",
+        "road_node_index": 183
+      },
+      {
+        "node_id": "2411",
+        "road_node_index": 208
+      },
+      {
+        "node_id": "3586",
+        "road_node_index": 251
+      }
+    ],
+    "edge_count": 251
+  },
+  "74-A": {
+    "stops": [
+      {
+        "node_id": "1783",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3426",
+        "road_node_index": 14
+      },
+      {
+        "node_id": "3604",
+        "road_node_index": 56
+      },
+      {
+        "node_id": "694",
+        "road_node_index": 83
+      },
+      {
+        "node_id": "409",
+        "road_node_index": 132
+      },
+      {
+        "node_id": "211",
+        "road_node_index": 154
+      },
+      {
+        "node_id": "815",
+        "road_node_index": 177
+      },
+      {
+        "node_id": "3640",
+        "road_node_index": 195
+      },
+      {
+        "node_id": "304",
+        "road_node_index": 212
+      },
+      {
+        "node_id": "645",
+        "road_node_index": 231
+      },
+      {
+        "node_id": "900",
+        "road_node_index": 282
+      }
+    ],
+    "edge_count": 282
+  },
+  "75-A": {
+    "stops": [
+      {
+        "node_id": "1159",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1505",
+        "road_node_index": 63
+      },
+      {
+        "node_id": "2678",
+        "road_node_index": 124
+      },
+      {
+        "node_id": "1488",
+        "road_node_index": 156
+      },
+      {
+        "node_id": "2962",
+        "road_node_index": 176
+      },
+      {
+        "node_id": "1119",
+        "road_node_index": 210
+      },
+      {
+        "node_id": "1548",
+        "road_node_index": 251
+      },
+      {
+        "node_id": "1364",
+        "road_node_index": 305
+      },
+      {
+        "node_id": "2844",
+        "road_node_index": 331
+      },
+      {
+        "node_id": "1355",
+        "road_node_index": 369
+      }
+    ],
+    "edge_count": 369
+  },
+  "76-A": {
+    "stops": [
+      {
+        "node_id": "3557",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "56",
+        "road_node_index": 19
+      },
+      {
+        "node_id": "744",
+        "road_node_index": 49
+      },
+      {
+        "node_id": "3285",
+        "road_node_index": 73
+      },
+      {
+        "node_id": "546",
+        "road_node_index": 122
+      },
+      {
+        "node_id": "212",
+        "road_node_index": 136
+      },
+      {
+        "node_id": "669",
+        "road_node_index": 170
+      },
+      {
+        "node_id": "1896",
+        "road_node_index": 205
+      },
+      {
+        "node_id": "750",
+        "road_node_index": 234
+      },
+      {
+        "node_id": "3602",
+        "road_node_index": 281
+      },
+      {
+        "node_id": "568",
+        "road_node_index": 315
+      },
+      {
+        "node_id": "366",
+        "road_node_index": 346
+      }
+    ],
+    "edge_count": 346
+  },
+  "77-A": {
+    "stops": [
+      {
+        "node_id": "1242",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2136",
+        "road_node_index": 38
+      },
+      {
+        "node_id": "1412",
+        "road_node_index": 60
+      },
+      {
+        "node_id": "2166",
+        "road_node_index": 121
+      },
+      {
+        "node_id": "1308",
+        "road_node_index": 172
+      },
+      {
+        "node_id": "3456",
+        "road_node_index": 201
+      },
+      {
+        "node_id": "3691",
+        "road_node_index": 235
+      },
+      {
+        "node_id": "3621",
+        "road_node_index": 273
+      },
+      {
+        "node_id": "1465",
+        "road_node_index": 328
+      },
+      {
+        "node_id": "1774",
+        "road_node_index": 351
+      }
+    ],
+    "edge_count": 351
+  },
+  "78-A": {
+    "stops": [
+      {
+        "node_id": "2796",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3115",
+        "road_node_index": 55
+      },
+      {
+        "node_id": "3390",
+        "road_node_index": 91
+      },
+      {
+        "node_id": "88",
+        "road_node_index": 144
+      },
+      {
+        "node_id": "102",
+        "road_node_index": 176
+      },
+      {
+        "node_id": "3698",
+        "road_node_index": 210
+      },
+      {
+        "node_id": "3538",
+        "road_node_index": 233
+      },
+      {
+        "node_id": "119",
+        "road_node_index": 265
+      }
+    ],
+    "edge_count": 265
+  },
+  "79-A": {
+    "stops": [
+      {
+        "node_id": "2201",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2322",
+        "road_node_index": 40
+      },
+      {
+        "node_id": "3033",
+        "road_node_index": 89
+      },
+      {
+        "node_id": "3564",
+        "road_node_index": 119
+      },
+      {
+        "node_id": "2287",
+        "road_node_index": 132
+      },
+      {
+        "node_id": "3571",
+        "road_node_index": 177
+      },
+      {
+        "node_id": "3372",
+        "road_node_index": 248
+      },
+      {
+        "node_id": "2904",
+        "road_node_index": 305
+      },
+      {
+        "node_id": "1367",
+        "road_node_index": 330
+      }
+    ],
+    "edge_count": 330
+  },
+  "80-A": {
+    "stops": [
+      {
+        "node_id": "56",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "94",
+        "road_node_index": 12
+      },
+      {
+        "node_id": "768",
+        "road_node_index": 66
+      },
+      {
+        "node_id": "3282",
+        "road_node_index": 120
+      },
+      {
+        "node_id": "1571",
+        "road_node_index": 146
+      },
+      {
+        "node_id": "1926",
+        "road_node_index": 183
+      },
+      {
+        "node_id": "468",
+        "road_node_index": 240
+      },
+      {
+        "node_id": "730",
+        "road_node_index": 281
+      },
+      {
+        "node_id": "289",
+        "road_node_index": 327
+      }
+    ],
+    "edge_count": 327
+  },
+  "81-A": {
+    "stops": [
+      {
+        "node_id": "3668",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "134",
+        "road_node_index": 26
+      },
+      {
+        "node_id": "3328",
+        "road_node_index": 54
+      },
+      {
+        "node_id": "679",
+        "road_node_index": 68
+      },
+      {
+        "node_id": "88",
+        "road_node_index": 94
+      },
+      {
+        "node_id": "94",
+        "road_node_index": 110
+      },
+      {
+        "node_id": "557",
+        "road_node_index": 123
+      },
+      {
+        "node_id": "3551",
+        "road_node_index": 140
+      },
+      {
+        "node_id": "733",
+        "road_node_index": 162
+      },
+      {
+        "node_id": "716",
+        "road_node_index": 203
+      },
+      {
+        "node_id": "900",
+        "road_node_index": 221
+      },
+      {
+        "node_id": "1923",
+        "road_node_index": 245
+      }
+    ],
+    "edge_count": 245
+  },
+  "82-A": {
+    "stops": [
+      {
+        "node_id": "1819",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1775",
+        "road_node_index": 65
+      },
+      {
+        "node_id": "1755",
+        "road_node_index": 124
+      },
+      {
+        "node_id": "1551",
+        "road_node_index": 144
+      },
+      {
+        "node_id": "1716",
+        "road_node_index": 184
+      },
+      {
+        "node_id": "1903",
+        "road_node_index": 234
+      },
+      {
+        "node_id": "1697",
+        "road_node_index": 296
+      }
+    ],
+    "edge_count": 296
+  },
+  "83-A": {
+    "stops": [
+      {
+        "node_id": "3552",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2763",
+        "road_node_index": 39
+      },
+      {
+        "node_id": "3315",
+        "road_node_index": 72
+      },
+      {
+        "node_id": "3269",
+        "road_node_index": 102
+      },
+      {
+        "node_id": "1456",
+        "road_node_index": 141
+      },
+      {
+        "node_id": "1064",
+        "road_node_index": 166
+      },
+      {
+        "node_id": "1196",
+        "road_node_index": 192
+      },
+      {
+        "node_id": "3313",
+        "road_node_index": 243
+      },
+      {
+        "node_id": "1042",
+        "road_node_index": 291
+      },
+      {
+        "node_id": "2010",
+        "road_node_index": 309
+      },
+      {
+        "node_id": "998",
+        "road_node_index": 325
+      }
+    ],
+    "edge_count": 325
+  },
+  "84-A": {
+    "stops": [
+      {
+        "node_id": "2135",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1333",
+        "road_node_index": 25
+      },
+      {
+        "node_id": "2452",
+        "road_node_index": 85
+      },
+      {
+        "node_id": "3647",
+        "road_node_index": 123
+      },
+      {
+        "node_id": "2357",
+        "road_node_index": 157
+      },
+      {
+        "node_id": "1615",
+        "road_node_index": 182
+      },
+      {
+        "node_id": "3486",
+        "road_node_index": 223
+      },
+      {
+        "node_id": "3470",
+        "road_node_index": 261
+      },
+      {
+        "node_id": "117",
+        "road_node_index": 291
+      }
+    ],
+    "edge_count": 291
+  },
+  "85-A": {
+    "stops": [
+      {
+        "node_id": "468",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1689",
+        "road_node_index": 36
+      },
+      {
+        "node_id": "164",
+        "road_node_index": 82
+      },
+      {
+        "node_id": "476",
+        "road_node_index": 99
+      },
+      {
+        "node_id": "108",
+        "road_node_index": 120
+      },
+      {
+        "node_id": "1827",
+        "road_node_index": 169
+      },
+      {
+        "node_id": "3280",
+        "road_node_index": 189
+      },
+      {
+        "node_id": "1578",
+        "road_node_index": 234
+      }
+    ],
+    "edge_count": 234
+  },
+  "86-A": {
+    "stops": [
+      {
+        "node_id": "1881",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2328",
+        "road_node_index": 44
+      },
+      {
+        "node_id": "3589",
+        "road_node_index": 61
+      },
+      {
+        "node_id": "3622",
+        "road_node_index": 96
+      },
+      {
+        "node_id": "2977",
+        "road_node_index": 113
+      },
+      {
+        "node_id": "1586",
+        "road_node_index": 160
+      },
+      {
+        "node_id": "2202",
+        "road_node_index": 186
+      },
+      {
+        "node_id": "3416",
+        "road_node_index": 237
+      }
+    ],
+    "edge_count": 237
+  },
+  "87-A": {
+    "stops": [
+      {
+        "node_id": "1562",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1277",
+        "road_node_index": 63
+      },
+      {
+        "node_id": "1950",
+        "road_node_index": 87
+      },
+      {
+        "node_id": "1721",
+        "road_node_index": 106
+      },
+      {
+        "node_id": "3246",
+        "road_node_index": 126
+      },
+      {
+        "node_id": "2152",
+        "road_node_index": 142
+      },
+      {
+        "node_id": "1279",
+        "road_node_index": 159
+      },
+      {
+        "node_id": "1526",
+        "road_node_index": 185
+      },
+      {
+        "node_id": "1725",
+        "road_node_index": 214
+      },
+      {
+        "node_id": "1148",
+        "road_node_index": 241
+      }
+    ],
+    "edge_count": 241
+  },
+  "0-B": {
+    "stops": [
+      {
+        "node_id": "3028",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2984",
+        "road_node_index": 15
+      },
+      {
+        "node_id": "3309",
+        "road_node_index": 54
+      },
+      {
+        "node_id": "3377",
+        "road_node_index": 94
+      },
+      {
+        "node_id": "1217",
+        "road_node_index": 169
+      },
+      {
+        "node_id": "1106",
+        "road_node_index": 213
+      },
+      {
+        "node_id": "1767",
+        "road_node_index": 250
+      },
+      {
+        "node_id": "3658",
+        "road_node_index": 302
+      },
+      {
+        "node_id": "434",
+        "road_node_index": 334
+      },
+      {
+        "node_id": "417",
+        "road_node_index": 367
+      }
+    ],
+    "edge_count": 367
+  },
+  "1-B": {
+    "stops": [
+      {
+        "node_id": "3472",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "961",
+        "road_node_index": 42
+      },
+      {
+        "node_id": "1242",
+        "road_node_index": 63
+      },
+      {
+        "node_id": "2670",
+        "road_node_index": 86
+      },
+      {
+        "node_id": "1049",
+        "road_node_index": 119
+      },
+      {
+        "node_id": "2766",
+        "road_node_index": 147
+      },
+      {
+        "node_id": "2349",
+        "road_node_index": 177
+      },
+      {
+        "node_id": "3304",
+        "road_node_index": 195
+      },
+      {
+        "node_id": "2336",
+        "road_node_index": 207
+      },
+      {
+        "node_id": "2381",
+        "road_node_index": 227
+      },
+      {
+        "node_id": "2855",
+        "road_node_index": 252
+      }
+    ],
+    "edge_count": 252
+  },
+  "2-B": {
+    "stops": [
+      {
+        "node_id": "3701",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3290",
+        "road_node_index": 60
+      },
+      {
+        "node_id": "3493",
+        "road_node_index": 105
+      },
+      {
+        "node_id": "1765",
+        "road_node_index": 147
+      },
+      {
+        "node_id": "1537",
+        "road_node_index": 194
+      },
+      {
+        "node_id": "1628",
+        "road_node_index": 249
+      },
+      {
+        "node_id": "1143",
+        "road_node_index": 294
+      },
+      {
+        "node_id": "3434",
+        "road_node_index": 333
+      }
+    ],
+    "edge_count": 333
+  },
+  "3-B": {
+    "stops": [
+      {
+        "node_id": "326",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3307",
+        "road_node_index": 40
+      },
+      {
+        "node_id": "285",
+        "road_node_index": 97
+      },
+      {
+        "node_id": "789",
+        "road_node_index": 135
+      },
+      {
+        "node_id": "3732",
+        "road_node_index": 162
+      },
+      {
+        "node_id": "3247",
+        "road_node_index": 211
+      },
+      {
+        "node_id": "663",
+        "road_node_index": 252
+      }
+    ],
+    "edge_count": 252
+  },
+  "4-B": {
+    "stops": [
+      {
+        "node_id": "1781",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3733",
+        "road_node_index": 20
+      },
+      {
+        "node_id": "476",
+        "road_node_index": 89
+      },
+      {
+        "node_id": "3283",
+        "road_node_index": 104
+      },
+      {
+        "node_id": "2036",
+        "road_node_index": 149
+      },
+      {
+        "node_id": "251",
+        "road_node_index": 193
+      },
+      {
+        "node_id": "3526",
+        "road_node_index": 233
+      },
+      {
+        "node_id": "29",
+        "road_node_index": 250
+      }
+    ],
+    "edge_count": 250
+  },
+  "5-B": {
+    "stops": [
+      {
+        "node_id": "792",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "111",
+        "road_node_index": 56
+      },
+      {
+        "node_id": "23",
+        "road_node_index": 97
+      },
+      {
+        "node_id": "132",
+        "road_node_index": 154
+      },
+      {
+        "node_id": "119",
+        "road_node_index": 183
+      },
+      {
+        "node_id": "1781",
+        "road_node_index": 214
+      },
+      {
+        "node_id": "1716",
+        "road_node_index": 250
+      },
+      {
+        "node_id": "1773",
+        "road_node_index": 293
+      }
+    ],
+    "edge_count": 293
+  },
+  "6-B": {
+    "stops": [
+      {
+        "node_id": "2375",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3441",
+        "road_node_index": 36
+      },
+      {
+        "node_id": "2213",
+        "road_node_index": 49
+      },
+      {
+        "node_id": "2472",
+        "road_node_index": 103
+      },
+      {
+        "node_id": "3647",
+        "road_node_index": 127
+      },
+      {
+        "node_id": "3162",
+        "road_node_index": 163
+      },
+      {
+        "node_id": "3120",
+        "road_node_index": 182
+      },
+      {
+        "node_id": "3731",
+        "road_node_index": 222
+      }
+    ],
+    "edge_count": 222
+  },
+  "7-B": {
+    "stops": [
+      {
+        "node_id": "1328",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1591",
+        "road_node_index": 36
+      },
+      {
+        "node_id": "1392",
+        "road_node_index": 113
+      },
+      {
+        "node_id": "2001",
+        "road_node_index": 143
+      },
+      {
+        "node_id": "2121",
+        "road_node_index": 200
+      },
+      {
+        "node_id": "1237",
+        "road_node_index": 234
+      },
+      {
+        "node_id": "1068",
+        "road_node_index": 254
+      },
+      {
+        "node_id": "3146",
+        "road_node_index": 335
+      }
+    ],
+    "edge_count": 335
+  },
+  "8-B": {
+    "stops": [
+      {
+        "node_id": "2131",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "949",
+        "road_node_index": 15
+      },
+      {
+        "node_id": "1267",
+        "road_node_index": 39
+      },
+      {
+        "node_id": "1545",
+        "road_node_index": 84
+      },
+      {
+        "node_id": "2252",
+        "road_node_index": 128
+      },
+      {
+        "node_id": "2495",
+        "road_node_index": 145
+      },
+      {
+        "node_id": "2447",
+        "road_node_index": 158
+      },
+      {
+        "node_id": "2562",
+        "road_node_index": 188
+      },
+      {
+        "node_id": "797",
+        "road_node_index": 228
+      },
+      {
+        "node_id": "1782",
+        "road_node_index": 286
+      },
+      {
+        "node_id": "247",
+        "road_node_index": 319
+      }
+    ],
+    "edge_count": 319
+  },
+  "9-B": {
+    "stops": [
+      {
+        "node_id": "1625",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2309",
+        "road_node_index": 46
+      },
+      {
+        "node_id": "2582",
+        "road_node_index": 91
+      },
+      {
+        "node_id": "3134",
+        "road_node_index": 109
+      },
+      {
+        "node_id": "2769",
+        "road_node_index": 138
+      },
+      {
+        "node_id": "2593",
+        "road_node_index": 185
+      },
+      {
+        "node_id": "2893",
+        "road_node_index": 212
+      },
+      {
+        "node_id": "2915",
+        "road_node_index": 248
+      },
+      {
+        "node_id": "2913",
+        "road_node_index": 269
+      }
+    ],
+    "edge_count": 269
+  },
+  "10-B": {
+    "stops": [
+      {
+        "node_id": "3502",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2354",
+        "road_node_index": 20
+      },
+      {
+        "node_id": "3074",
+        "road_node_index": 46
+      },
+      {
+        "node_id": "1153",
+        "road_node_index": 109
+      },
+      {
+        "node_id": "1088",
+        "road_node_index": 141
+      },
+      {
+        "node_id": "3314",
+        "road_node_index": 165
+      },
+      {
+        "node_id": "2166",
+        "road_node_index": 210
+      },
+      {
+        "node_id": "2194",
+        "road_node_index": 229
+      },
+      {
+        "node_id": "3266",
+        "road_node_index": 268
+      },
+      {
+        "node_id": "3493",
+        "road_node_index": 306
+      },
+      {
+        "node_id": "2827",
+        "road_node_index": 347
+      }
+    ],
+    "edge_count": 347
+  },
+  "11-B": {
+    "stops": [
+      {
+        "node_id": "2297",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3616",
+        "road_node_index": 25
+      },
+      {
+        "node_id": "2368",
+        "road_node_index": 65
+      },
+      {
+        "node_id": "3363",
+        "road_node_index": 131
+      },
+      {
+        "node_id": "2944",
+        "road_node_index": 151
+      },
+      {
+        "node_id": "2746",
+        "road_node_index": 171
+      },
+      {
+        "node_id": "2630",
+        "road_node_index": 223
+      },
+      {
+        "node_id": "2796",
+        "road_node_index": 254
+      }
+    ],
+    "edge_count": 254
+  },
+  "12-B": {
+    "stops": [
+      {
+        "node_id": "2949",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3109",
+        "road_node_index": 36
+      },
+      {
+        "node_id": "2987",
+        "road_node_index": 56
+      },
+      {
+        "node_id": "3270",
+        "road_node_index": 163
+      },
+      {
+        "node_id": "2229",
+        "road_node_index": 202
+      },
+      {
+        "node_id": "2487",
+        "road_node_index": 235
+      },
+      {
+        "node_id": "2997",
+        "road_node_index": 268
+      }
+    ],
+    "edge_count": 268
+  },
+  "13-B": {
+    "stops": [
+      {
+        "node_id": "725",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3720",
+        "road_node_index": 48
+      },
+      {
+        "node_id": "30",
+        "road_node_index": 104
+      },
+      {
+        "node_id": "477",
+        "road_node_index": 123
+      },
+      {
+        "node_id": "147",
+        "road_node_index": 160
+      },
+      {
+        "node_id": "227",
+        "road_node_index": 197
+      },
+      {
+        "node_id": "685",
+        "road_node_index": 214
+      },
+      {
+        "node_id": "3680",
+        "road_node_index": 280
+      },
+      {
+        "node_id": "3640",
+        "road_node_index": 294
+      }
+    ],
+    "edge_count": 294
+  },
+  "14-B": {
+    "stops": [
+      {
+        "node_id": "3631",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3698",
+        "road_node_index": 16
+      },
+      {
+        "node_id": "1686",
+        "road_node_index": 49
+      },
+      {
+        "node_id": "1587",
+        "road_node_index": 72
+      },
+      {
+        "node_id": "3476",
+        "road_node_index": 160
+      },
+      {
+        "node_id": "907",
+        "road_node_index": 197
+      },
+      {
+        "node_id": "2679",
+        "road_node_index": 241
+      },
+      {
+        "node_id": "1447",
+        "road_node_index": 287
+      }
+    ],
+    "edge_count": 287
+  },
+  "15-B": {
+    "stops": [
+      {
+        "node_id": "2497",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1080",
+        "road_node_index": 142
+      },
+      {
+        "node_id": "3615",
+        "road_node_index": 225
+      },
+      {
+        "node_id": "2908",
+        "road_node_index": 291
+      },
+      {
+        "node_id": "2477",
+        "road_node_index": 325
+      },
+      {
+        "node_id": "2602",
+        "road_node_index": 384
+      },
+      {
+        "node_id": "3274",
+        "road_node_index": 415
+      }
+    ],
+    "edge_count": 415
+  },
+  "16-B": {
+    "stops": [
+      {
+        "node_id": "677",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1962",
+        "road_node_index": 60
+      },
+      {
+        "node_id": "1810",
+        "road_node_index": 111
+      },
+      {
+        "node_id": "1896",
+        "road_node_index": 144
+      },
+      {
+        "node_id": "2176",
+        "road_node_index": 186
+      },
+      {
+        "node_id": "1313",
+        "road_node_index": 232
+      },
+      {
+        "node_id": "1266",
+        "road_node_index": 264
+      },
+      {
+        "node_id": "2842",
+        "road_node_index": 289
+      }
+    ],
+    "edge_count": 289
+  },
+  "17-B": {
+    "stops": [
+      {
+        "node_id": "3613",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3686",
+        "road_node_index": 69
+      },
+      {
+        "node_id": "2851",
+        "road_node_index": 111
+      },
+      {
+        "node_id": "2155",
+        "road_node_index": 153
+      },
+      {
+        "node_id": "1329",
+        "road_node_index": 187
+      },
+      {
+        "node_id": "1477",
+        "road_node_index": 224
+      },
+      {
+        "node_id": "3594",
+        "road_node_index": 290
+      },
+      {
+        "node_id": "1629",
+        "road_node_index": 333
+      }
+    ],
+    "edge_count": 333
+  },
+  "18-B": {
+    "stops": [
+      {
+        "node_id": "397",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "828",
+        "road_node_index": 51
+      },
+      {
+        "node_id": "16",
+        "road_node_index": 145
+      },
+      {
+        "node_id": "2087",
+        "road_node_index": 160
+      },
+      {
+        "node_id": "250",
+        "road_node_index": 194
+      },
+      {
+        "node_id": "3667",
+        "road_node_index": 228
+      }
+    ],
+    "edge_count": 228
+  },
+  "19-B": {
+    "stops": [
+      {
+        "node_id": "1264",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3447",
+        "road_node_index": 42
+      },
+      {
+        "node_id": "1509",
+        "road_node_index": 63
+      },
+      {
+        "node_id": "2907",
+        "road_node_index": 105
+      },
+      {
+        "node_id": "1562",
+        "road_node_index": 162
+      },
+      {
+        "node_id": "1472",
+        "road_node_index": 173
+      },
+      {
+        "node_id": "972",
+        "road_node_index": 251
+      },
+      {
+        "node_id": "1331",
+        "road_node_index": 294
+      }
+    ],
+    "edge_count": 294
+  },
+  "20-B": {
+    "stops": [
+      {
+        "node_id": "1187",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1057",
+        "road_node_index": 45
+      },
+      {
+        "node_id": "2011",
+        "road_node_index": 82
+      },
+      {
+        "node_id": "1476",
+        "road_node_index": 109
+      },
+      {
+        "node_id": "1112",
+        "road_node_index": 151
+      },
+      {
+        "node_id": "1772",
+        "road_node_index": 183
+      },
+      {
+        "node_id": "902",
+        "road_node_index": 218
+      }
+    ],
+    "edge_count": 218
+  },
+  "21-B": {
+    "stops": [
+      {
+        "node_id": "2480",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1284",
+        "road_node_index": 68
+      },
+      {
+        "node_id": "3736",
+        "road_node_index": 83
+      },
+      {
+        "node_id": "2374",
+        "road_node_index": 118
+      },
+      {
+        "node_id": "2038",
+        "road_node_index": 166
+      },
+      {
+        "node_id": "3372",
+        "road_node_index": 216
+      },
+      {
+        "node_id": "1419",
+        "road_node_index": 259
+      },
+      {
+        "node_id": "3483",
+        "road_node_index": 332
+      },
+      {
+        "node_id": "2301",
+        "road_node_index": 355
+      }
+    ],
+    "edge_count": 355
+  },
+  "22-B": {
+    "stops": [
+      {
+        "node_id": "2758",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1460",
+        "road_node_index": 26
+      },
+      {
+        "node_id": "1258",
+        "road_node_index": 78
+      },
+      {
+        "node_id": "3378",
+        "road_node_index": 128
+      },
+      {
+        "node_id": "2584",
+        "road_node_index": 193
+      },
+      {
+        "node_id": "1046",
+        "road_node_index": 262
+      },
+      {
+        "node_id": "923",
+        "road_node_index": 282
+      },
+      {
+        "node_id": "1039",
+        "road_node_index": 343
+      }
+    ],
+    "edge_count": 343
+  },
+  "23-B": {
+    "stops": [
+      {
+        "node_id": "926",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3568",
+        "road_node_index": 48
+      },
+      {
+        "node_id": "1569",
+        "road_node_index": 84
+      },
+      {
+        "node_id": "3472",
+        "road_node_index": 130
+      },
+      {
+        "node_id": "1041",
+        "road_node_index": 196
+      },
+      {
+        "node_id": "1947",
+        "road_node_index": 246
+      },
+      {
+        "node_id": "1819",
+        "road_node_index": 301
+      }
+    ],
+    "edge_count": 301
+  },
+  "24-B": {
+    "stops": [
+      {
+        "node_id": "2356",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3506",
+        "road_node_index": 52
+      },
+      {
+        "node_id": "1264",
+        "road_node_index": 74
+      },
+      {
+        "node_id": "1284",
+        "road_node_index": 125
+      },
+      {
+        "node_id": "1207",
+        "road_node_index": 208
+      },
+      {
+        "node_id": "2113",
+        "road_node_index": 278
+      }
+    ],
+    "edge_count": 278
+  },
+  "25-B": {
+    "stops": [
+      {
+        "node_id": "82",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3413",
+        "road_node_index": 49
+      },
+      {
+        "node_id": "95",
+        "road_node_index": 75
+      },
+      {
+        "node_id": "3532",
+        "road_node_index": 107
+      },
+      {
+        "node_id": "109",
+        "road_node_index": 150
+      },
+      {
+        "node_id": "3488",
+        "road_node_index": 197
+      },
+      {
+        "node_id": "32",
+        "road_node_index": 224
+      },
+      {
+        "node_id": "272",
+        "road_node_index": 264
+      }
+    ],
+    "edge_count": 264
+  },
+  "26-B": {
+    "stops": [
+      {
+        "node_id": "3147",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3621",
+        "road_node_index": 24
+      },
+      {
+        "node_id": "3388",
+        "road_node_index": 113
+      },
+      {
+        "node_id": "1308",
+        "road_node_index": 157
+      },
+      {
+        "node_id": "3326",
+        "road_node_index": 191
+      },
+      {
+        "node_id": "915",
+        "road_node_index": 243
+      },
+      {
+        "node_id": "3074",
+        "road_node_index": 286
+      }
+    ],
+    "edge_count": 286
+  },
+  "27-B": {
+    "stops": [
+      {
+        "node_id": "3156",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3001",
+        "road_node_index": 16
+      },
+      {
+        "node_id": "1873",
+        "road_node_index": 61
+      },
+      {
+        "node_id": "29",
+        "road_node_index": 112
+      },
+      {
+        "node_id": "880",
+        "road_node_index": 146
+      },
+      {
+        "node_id": "2169",
+        "road_node_index": 250
+      },
+      {
+        "node_id": "1213",
+        "road_node_index": 316
+      }
+    ],
+    "edge_count": 316
+  },
+  "28-B": {
+    "stops": [
+      {
+        "node_id": "1079",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1121",
+        "road_node_index": 21
+      },
+      {
+        "node_id": "3377",
+        "road_node_index": 70
+      },
+      {
+        "node_id": "2852",
+        "road_node_index": 114
+      },
+      {
+        "node_id": "3454",
+        "road_node_index": 146
+      },
+      {
+        "node_id": "2977",
+        "road_node_index": 193
+      },
+      {
+        "node_id": "3156",
+        "road_node_index": 217
+      },
+      {
+        "node_id": "3483",
+        "road_node_index": 240
+      },
+      {
+        "node_id": "3109",
+        "road_node_index": 271
+      }
+    ],
+    "edge_count": 271
+  },
+  "29-B": {
+    "stops": [
+      {
+        "node_id": "1624",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2301",
+        "road_node_index": 52
+      },
+      {
+        "node_id": "1227",
+        "road_node_index": 119
+      },
+      {
+        "node_id": "1030",
+        "road_node_index": 172
+      },
+      {
+        "node_id": "1191",
+        "road_node_index": 187
+      },
+      {
+        "node_id": "1180",
+        "road_node_index": 193
+      },
+      {
+        "node_id": "1036",
+        "road_node_index": 211
+      },
+      {
+        "node_id": "1681",
+        "road_node_index": 267
+      },
+      {
+        "node_id": "1277",
+        "road_node_index": 318
+      }
+    ],
+    "edge_count": 318
+  },
+  "30-B": {
+    "stops": [
+      {
+        "node_id": "3476",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1014",
+        "road_node_index": 41
+      },
+      {
+        "node_id": "1447",
+        "road_node_index": 91
+      },
+      {
+        "node_id": "3376",
+        "road_node_index": 110
+      },
+      {
+        "node_id": "1479",
+        "road_node_index": 127
+      },
+      {
+        "node_id": "2521",
+        "road_node_index": 203
+      },
+      {
+        "node_id": "3400",
+        "road_node_index": 217
+      },
+      {
+        "node_id": "1650",
+        "road_node_index": 240
+      },
+      {
+        "node_id": "677",
+        "road_node_index": 287
+      },
+      {
+        "node_id": "672",
+        "road_node_index": 295
+      }
+    ],
+    "edge_count": 295
+  },
+  "31-B": {
+    "stops": [
+      {
+        "node_id": "3423",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2168",
+        "road_node_index": 34
+      },
+      {
+        "node_id": "3493",
+        "road_node_index": 55
+      },
+      {
+        "node_id": "3426",
+        "road_node_index": 88
+      },
+      {
+        "node_id": "3509",
+        "road_node_index": 95
+      },
+      {
+        "node_id": "3296",
+        "road_node_index": 117
+      },
+      {
+        "node_id": "456",
+        "road_node_index": 144
+      },
+      {
+        "node_id": "862",
+        "road_node_index": 159
+      }
+    ],
+    "edge_count": 159
+  },
+  "32-B": {
+    "stops": [
+      {
+        "node_id": "1717",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1068",
+        "road_node_index": 42
+      },
+      {
+        "node_id": "2029",
+        "road_node_index": 122
+      },
+      {
+        "node_id": "1280",
+        "road_node_index": 179
+      },
+      {
+        "node_id": "1950",
+        "road_node_index": 205
+      },
+      {
+        "node_id": "2150",
+        "road_node_index": 241
+      },
+      {
+        "node_id": "1300",
+        "road_node_index": 305
+      },
+      {
+        "node_id": "1426",
+        "road_node_index": 387
+      }
+    ],
+    "edge_count": 387
+  },
+  "33-B": {
+    "stops": [
+      {
+        "node_id": "503",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3330",
+        "road_node_index": 59
+      },
+      {
+        "node_id": "3287",
+        "road_node_index": 102
+      },
+      {
+        "node_id": "1315",
+        "road_node_index": 129
+      },
+      {
+        "node_id": "3359",
+        "road_node_index": 163
+      },
+      {
+        "node_id": "1256",
+        "road_node_index": 216
+      },
+      {
+        "node_id": "1268",
+        "road_node_index": 247
+      },
+      {
+        "node_id": "1005",
+        "road_node_index": 314
+      }
+    ],
+    "edge_count": 314
+  },
+  "34-B": {
+    "stops": [
+      {
+        "node_id": "615",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3604",
+        "road_node_index": 42
+      },
+      {
+        "node_id": "1286",
+        "road_node_index": 106
+      },
+      {
+        "node_id": "3379",
+        "road_node_index": 124
+      },
+      {
+        "node_id": "2105",
+        "road_node_index": 175
+      },
+      {
+        "node_id": "2469",
+        "road_node_index": 280
+      }
+    ],
+    "edge_count": 280
+  },
+  "35-B": {
+    "stops": [
+      {
+        "node_id": "208",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3640",
+        "road_node_index": 29
+      },
+      {
+        "node_id": "768",
+        "road_node_index": 61
+      },
+      {
+        "node_id": "1958",
+        "road_node_index": 106
+      },
+      {
+        "node_id": "3670",
+        "road_node_index": 156
+      },
+      {
+        "node_id": "804",
+        "road_node_index": 182
+      },
+      {
+        "node_id": "3631",
+        "road_node_index": 204
+      },
+      {
+        "node_id": "3468",
+        "road_node_index": 236
+      },
+      {
+        "node_id": "53",
+        "road_node_index": 263
+      },
+      {
+        "node_id": "250",
+        "road_node_index": 273
+      }
+    ],
+    "edge_count": 273
+  },
+  "36-B": {
+    "stops": [
+      {
+        "node_id": "504",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "615",
+        "road_node_index": 42
+      },
+      {
+        "node_id": "3720",
+        "road_node_index": 59
+      },
+      {
+        "node_id": "265",
+        "road_node_index": 81
+      },
+      {
+        "node_id": "1852",
+        "road_node_index": 155
+      },
+      {
+        "node_id": "3696",
+        "road_node_index": 201
+      },
+      {
+        "node_id": "34",
+        "road_node_index": 244
+      }
+    ],
+    "edge_count": 244
+  },
+  "37-B": {
+    "stops": [
+      {
+        "node_id": "149",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3744",
+        "road_node_index": 20
+      },
+      {
+        "node_id": "3720",
+        "road_node_index": 47
+      },
+      {
+        "node_id": "162",
+        "road_node_index": 74
+      },
+      {
+        "node_id": "682",
+        "road_node_index": 102
+      },
+      {
+        "node_id": "3738",
+        "road_node_index": 121
+      },
+      {
+        "node_id": "655",
+        "road_node_index": 134
+      },
+      {
+        "node_id": "274",
+        "road_node_index": 176
+      },
+      {
+        "node_id": "531",
+        "road_node_index": 221
+      },
+      {
+        "node_id": "899",
+        "road_node_index": 270
+      }
+    ],
+    "edge_count": 270
+  },
+  "38-B": {
+    "stops": [
+      {
+        "node_id": "3305",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1773",
+        "road_node_index": 45
+      },
+      {
+        "node_id": "2102",
+        "road_node_index": 72
+      },
+      {
+        "node_id": "3148",
+        "road_node_index": 117
+      },
+      {
+        "node_id": "1494",
+        "road_node_index": 149
+      },
+      {
+        "node_id": "1597",
+        "road_node_index": 219
+      },
+      {
+        "node_id": "2110",
+        "road_node_index": 279
+      },
+      {
+        "node_id": "3313",
+        "road_node_index": 322
+      },
+      {
+        "node_id": "3408",
+        "road_node_index": 353
+      },
+      {
+        "node_id": "1306",
+        "road_node_index": 403
+      }
+    ],
+    "edge_count": 403
+  },
+  "39-B": {
+    "stops": [
+      {
+        "node_id": "2760",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2403",
+        "road_node_index": 33
+      },
+      {
+        "node_id": "2816",
+        "road_node_index": 65
+      },
+      {
+        "node_id": "2765",
+        "road_node_index": 88
+      },
+      {
+        "node_id": "947",
+        "road_node_index": 139
+      },
+      {
+        "node_id": "3434",
+        "road_node_index": 168
+      },
+      {
+        "node_id": "1027",
+        "road_node_index": 220
+      },
+      {
+        "node_id": "3478",
+        "road_node_index": 247
+      },
+      {
+        "node_id": "926",
+        "road_node_index": 284
+      }
+    ],
+    "edge_count": 284
+  },
+  "40-B": {
+    "stops": [
+      {
+        "node_id": "3316",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1244",
+        "road_node_index": 63
+      },
+      {
+        "node_id": "2997",
+        "road_node_index": 163
+      },
+      {
+        "node_id": "2398",
+        "road_node_index": 178
+      },
+      {
+        "node_id": "3345",
+        "road_node_index": 212
+      },
+      {
+        "node_id": "2318",
+        "road_node_index": 245
+      },
+      {
+        "node_id": "2245",
+        "road_node_index": 277
+      },
+      {
+        "node_id": "3298",
+        "road_node_index": 315
+      }
+    ],
+    "edge_count": 315
+  },
+  "41-B": {
+    "stops": [
+      {
+        "node_id": "2793",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2756",
+        "road_node_index": 31
+      },
+      {
+        "node_id": "2313",
+        "road_node_index": 62
+      },
+      {
+        "node_id": "1260",
+        "road_node_index": 75
+      },
+      {
+        "node_id": "3703",
+        "road_node_index": 118
+      },
+      {
+        "node_id": "1148",
+        "road_node_index": 158
+      },
+      {
+        "node_id": "1314",
+        "road_node_index": 215
+      },
+      {
+        "node_id": "3385",
+        "road_node_index": 234
+      }
+    ],
+    "edge_count": 234
+  },
+  "42-B": {
+    "stops": [
+      {
+        "node_id": "2384",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3615",
+        "road_node_index": 31
+      },
+      {
+        "node_id": "3366",
+        "road_node_index": 77
+      },
+      {
+        "node_id": "2231",
+        "road_node_index": 107
+      },
+      {
+        "node_id": "3586",
+        "road_node_index": 153
+      },
+      {
+        "node_id": "1791",
+        "road_node_index": 203
+      },
+      {
+        "node_id": "2076",
+        "road_node_index": 245
+      },
+      {
+        "node_id": "1045",
+        "road_node_index": 299
+      },
+      {
+        "node_id": "3058",
+        "road_node_index": 340
+      }
+    ],
+    "edge_count": 340
+  },
+  "43-B": {
+    "stops": [
+      {
+        "node_id": "2322",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1941",
+        "road_node_index": 50
+      },
+      {
+        "node_id": "1518",
+        "road_node_index": 124
+      },
+      {
+        "node_id": "3459",
+        "road_node_index": 207
+      },
+      {
+        "node_id": "2430",
+        "road_node_index": 232
+      },
+      {
+        "node_id": "3299",
+        "road_node_index": 276
+      },
+      {
+        "node_id": "1117",
+        "road_node_index": 292
+      },
+      {
+        "node_id": "3292",
+        "road_node_index": 311
+      },
+      {
+        "node_id": "1376",
+        "road_node_index": 358
+      }
+    ],
+    "edge_count": 358
+  },
+  "44-B": {
+    "stops": [
+      {
+        "node_id": "1570",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "798",
+        "road_node_index": 31
+      },
+      {
+        "node_id": "3694",
+        "road_node_index": 49
+      },
+      {
+        "node_id": "451",
+        "road_node_index": 65
+      },
+      {
+        "node_id": "114",
+        "road_node_index": 79
+      },
+      {
+        "node_id": "3653",
+        "road_node_index": 101
+      },
+      {
+        "node_id": "3613",
+        "road_node_index": 142
+      },
+      {
+        "node_id": "2283",
+        "road_node_index": 190
+      }
+    ],
+    "edge_count": 190
+  },
+  "45-B": {
+    "stops": [
+      {
+        "node_id": "3613",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2329",
+        "road_node_index": 21
+      },
+      {
+        "node_id": "3355",
+        "road_node_index": 40
+      },
+      {
+        "node_id": "2037",
+        "road_node_index": 82
+      },
+      {
+        "node_id": "450",
+        "road_node_index": 140
+      },
+      {
+        "node_id": "136",
+        "road_node_index": 170
+      },
+      {
+        "node_id": "807",
+        "road_node_index": 243
+      }
+    ],
+    "edge_count": 243
+  },
+  "46-B": {
+    "stops": [
+      {
+        "node_id": "1117",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1097",
+        "road_node_index": 44
+      },
+      {
+        "node_id": "1372",
+        "road_node_index": 71
+      },
+      {
+        "node_id": "997",
+        "road_node_index": 118
+      },
+      {
+        "node_id": "1813",
+        "road_node_index": 152
+      },
+      {
+        "node_id": "3708",
+        "road_node_index": 189
+      },
+      {
+        "node_id": "1953",
+        "road_node_index": 241
+      },
+      {
+        "node_id": "902",
+        "road_node_index": 276
+      },
+      {
+        "node_id": "306",
+        "road_node_index": 351
+      }
+    ],
+    "edge_count": 351
+  },
+  "47-B": {
+    "stops": [
+      {
+        "node_id": "3588",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2211",
+        "road_node_index": 45
+      },
+      {
+        "node_id": "2587",
+        "road_node_index": 99
+      },
+      {
+        "node_id": "3344",
+        "road_node_index": 184
+      },
+      {
+        "node_id": "2337",
+        "road_node_index": 222
+      },
+      {
+        "node_id": "2190",
+        "road_node_index": 309
+      },
+      {
+        "node_id": "3394",
+        "road_node_index": 315
+      }
+    ],
+    "edge_count": 315
+  },
+  "48-B": {
+    "stops": [
+      {
+        "node_id": "2893",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2371",
+        "road_node_index": 35
+      },
+      {
+        "node_id": "1248",
+        "road_node_index": 105
+      },
+      {
+        "node_id": "1314",
+        "road_node_index": 184
+      },
+      {
+        "node_id": "1500",
+        "road_node_index": 236
+      },
+      {
+        "node_id": "2031",
+        "road_node_index": 324
+      },
+      {
+        "node_id": "2197",
+        "road_node_index": 359
+      }
+    ],
+    "edge_count": 359
+  },
+  "49-B": {
+    "stops": [
+      {
+        "node_id": "2932",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2827",
+        "road_node_index": 26
+      },
+      {
+        "node_id": "1568",
+        "road_node_index": 94
+      },
+      {
+        "node_id": "1943",
+        "road_node_index": 141
+      },
+      {
+        "node_id": "3694",
+        "road_node_index": 162
+      },
+      {
+        "node_id": "96",
+        "road_node_index": 183
+      },
+      {
+        "node_id": "703",
+        "road_node_index": 206
+      }
+    ],
+    "edge_count": 206
+  },
+  "50-B": {
+    "stops": [
+      {
+        "node_id": "2109",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1629",
+        "road_node_index": 25
+      },
+      {
+        "node_id": "1735",
+        "road_node_index": 75
+      },
+      {
+        "node_id": "2008",
+        "road_node_index": 104
+      },
+      {
+        "node_id": "3580",
+        "road_node_index": 151
+      },
+      {
+        "node_id": "739",
+        "road_node_index": 234
+      },
+      {
+        "node_id": "1896",
+        "road_node_index": 277
+      },
+      {
+        "node_id": "1800",
+        "road_node_index": 299
+      }
+    ],
+    "edge_count": 299
+  },
+  "51-B": {
+    "stops": [
+      {
+        "node_id": "343",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3650",
+        "road_node_index": 35
+      },
+      {
+        "node_id": "273",
+        "road_node_index": 105
+      },
+      {
+        "node_id": "3671",
+        "road_node_index": 141
+      },
+      {
+        "node_id": "217",
+        "road_node_index": 181
+      },
+      {
+        "node_id": "892",
+        "road_node_index": 204
+      },
+      {
+        "node_id": "3534",
+        "road_node_index": 246
+      }
+    ],
+    "edge_count": 246
+  },
+  "52-B": {
+    "stops": [
+      {
+        "node_id": "877",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3533",
+        "road_node_index": 21
+      },
+      {
+        "node_id": "3540",
+        "road_node_index": 56
+      },
+      {
+        "node_id": "1961",
+        "road_node_index": 86
+      },
+      {
+        "node_id": "3511",
+        "road_node_index": 108
+      },
+      {
+        "node_id": "3282",
+        "road_node_index": 118
+      },
+      {
+        "node_id": "716",
+        "road_node_index": 141
+      },
+      {
+        "node_id": "696",
+        "road_node_index": 163
+      },
+      {
+        "node_id": "732",
+        "road_node_index": 198
+      },
+      {
+        "node_id": "144",
+        "road_node_index": 224
+      },
+      {
+        "node_id": "734",
+        "road_node_index": 238
+      },
+      {
+        "node_id": "723",
+        "road_node_index": 264
+      }
+    ],
+    "edge_count": 264
+  },
+  "53-B": {
+    "stops": [
+      {
+        "node_id": "3416",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2326",
+        "road_node_index": 25
+      },
+      {
+        "node_id": "1528",
+        "road_node_index": 70
+      },
+      {
+        "node_id": "3354",
+        "road_node_index": 99
+      },
+      {
+        "node_id": "3291",
+        "road_node_index": 131
+      },
+      {
+        "node_id": "1669",
+        "road_node_index": 190
+      },
+      {
+        "node_id": "938",
+        "road_node_index": 220
+      },
+      {
+        "node_id": "1276",
+        "road_node_index": 257
+      },
+      {
+        "node_id": "1414",
+        "road_node_index": 290
+      },
+      {
+        "node_id": "1068",
+        "road_node_index": 313
+      },
+      {
+        "node_id": "1252",
+        "road_node_index": 373
+      }
+    ],
+    "edge_count": 373
+  },
+  "54-B": {
+    "stops": [
+      {
+        "node_id": "1045",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3246",
+        "road_node_index": 27
+      },
+      {
+        "node_id": "2779",
+        "road_node_index": 86
+      },
+      {
+        "node_id": "1542",
+        "road_node_index": 106
+      },
+      {
+        "node_id": "1260",
+        "road_node_index": 118
+      },
+      {
+        "node_id": "1123",
+        "road_node_index": 168
+      },
+      {
+        "node_id": "3588",
+        "road_node_index": 278
+      },
+      {
+        "node_id": "2777",
+        "road_node_index": 333
+      }
+    ],
+    "edge_count": 333
+  },
+  "55-B": {
+    "stops": [
+      {
+        "node_id": "3326",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2571",
+        "road_node_index": 67
+      },
+      {
+        "node_id": "3648",
+        "road_node_index": 108
+      },
+      {
+        "node_id": "2212",
+        "road_node_index": 138
+      },
+      {
+        "node_id": "2366",
+        "road_node_index": 169
+      },
+      {
+        "node_id": "3110",
+        "road_node_index": 220
+      }
+    ],
+    "edge_count": 220
+  },
+  "56-B": {
+    "stops": [
+      {
+        "node_id": "2237",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2201",
+        "road_node_index": 33
+      },
+      {
+        "node_id": "2953",
+        "road_node_index": 94
+      },
+      {
+        "node_id": "2666",
+        "road_node_index": 106
+      },
+      {
+        "node_id": "3016",
+        "road_node_index": 134
+      },
+      {
+        "node_id": "3353",
+        "road_node_index": 164
+      },
+      {
+        "node_id": "3098",
+        "road_node_index": 189
+      },
+      {
+        "node_id": "3409",
+        "road_node_index": 209
+      },
+      {
+        "node_id": "3362",
+        "road_node_index": 223
+      },
+      {
+        "node_id": "2959",
+        "road_node_index": 289
+      },
+      {
+        "node_id": "2833",
+        "road_node_index": 305
+      }
+    ],
+    "edge_count": 305
+  },
+  "57-B": {
+    "stops": [
+      {
+        "node_id": "1915",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1603",
+        "road_node_index": 50
+      },
+      {
+        "node_id": "2208",
+        "road_node_index": 80
+      },
+      {
+        "node_id": "2598",
+        "road_node_index": 126
+      },
+      {
+        "node_id": "2264",
+        "road_node_index": 142
+      },
+      {
+        "node_id": "3042",
+        "road_node_index": 170
+      },
+      {
+        "node_id": "3002",
+        "road_node_index": 181
+      },
+      {
+        "node_id": "3562",
+        "road_node_index": 200
+      },
+      {
+        "node_id": "2267",
+        "road_node_index": 223
+      },
+      {
+        "node_id": "2270",
+        "road_node_index": 233
+      }
+    ],
+    "edge_count": 233
+  },
+  "58-B": {
+    "stops": [
+      {
+        "node_id": "1520",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1383",
+        "road_node_index": 56
+      },
+      {
+        "node_id": "2193",
+        "road_node_index": 83
+      },
+      {
+        "node_id": "1001",
+        "road_node_index": 130
+      },
+      {
+        "node_id": "1412",
+        "road_node_index": 152
+      },
+      {
+        "node_id": "1306",
+        "road_node_index": 233
+      },
+      {
+        "node_id": "1331",
+        "road_node_index": 261
+      },
+      {
+        "node_id": "3305",
+        "road_node_index": 307
+      },
+      {
+        "node_id": "880",
+        "road_node_index": 344
+      }
+    ],
+    "edge_count": 344
+  },
+  "59-B": {
+    "stops": [
+      {
+        "node_id": "3421",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3649",
+        "road_node_index": 10
+      },
+      {
+        "node_id": "1950",
+        "road_node_index": 42
+      },
+      {
+        "node_id": "1235",
+        "road_node_index": 67
+      },
+      {
+        "node_id": "1365",
+        "road_node_index": 84
+      },
+      {
+        "node_id": "3611",
+        "road_node_index": 133
+      },
+      {
+        "node_id": "1633",
+        "road_node_index": 158
+      },
+      {
+        "node_id": "1697",
+        "road_node_index": 209
+      },
+      {
+        "node_id": "3440",
+        "road_node_index": 244
+      },
+      {
+        "node_id": "1571",
+        "road_node_index": 270
+      }
+    ],
+    "edge_count": 270
+  },
+  "60-B": {
+    "stops": [
+      {
+        "node_id": "3486",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3366",
+        "road_node_index": 18
+      },
+      {
+        "node_id": "3456",
+        "road_node_index": 52
+      },
+      {
+        "node_id": "1465",
+        "road_node_index": 115
+      },
+      {
+        "node_id": "1721",
+        "road_node_index": 146
+      },
+      {
+        "node_id": "1946",
+        "road_node_index": 178
+      },
+      {
+        "node_id": "1903",
+        "road_node_index": 203
+      },
+      {
+        "node_id": "2136",
+        "road_node_index": 242
+      },
+      {
+        "node_id": "2008",
+        "road_node_index": 273
+      }
+    ],
+    "edge_count": 273
+  },
+  "61-B": {
+    "stops": [
+      {
+        "node_id": "1657",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "178",
+        "road_node_index": 57
+      },
+      {
+        "node_id": "3549",
+        "road_node_index": 113
+      },
+      {
+        "node_id": "3533",
+        "road_node_index": 120
+      },
+      {
+        "node_id": "3695",
+        "road_node_index": 156
+      },
+      {
+        "node_id": "820",
+        "road_node_index": 211
+      },
+      {
+        "node_id": "769",
+        "road_node_index": 254
+      },
+      {
+        "node_id": "652",
+        "road_node_index": 334
+      }
+    ],
+    "edge_count": 334
+  },
+  "62-B": {
+    "stops": [
+      {
+        "node_id": "3454",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2265",
+        "road_node_index": 41
+      },
+      {
+        "node_id": "2399",
+        "road_node_index": 60
+      },
+      {
+        "node_id": "3006",
+        "road_node_index": 93
+      },
+      {
+        "node_id": "3612",
+        "road_node_index": 155
+      },
+      {
+        "node_id": "1236",
+        "road_node_index": 182
+      },
+      {
+        "node_id": "1424",
+        "road_node_index": 234
+      },
+      {
+        "node_id": "1360",
+        "road_node_index": 267
+      },
+      {
+        "node_id": "950",
+        "road_node_index": 297
+      },
+      {
+        "node_id": "3373",
+        "road_node_index": 328
+      },
+      {
+        "node_id": "1048",
+        "road_node_index": 343
+      }
+    ],
+    "edge_count": 343
+  },
+  "63-B": {
+    "stops": [
+      {
+        "node_id": "1699",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1637",
+        "road_node_index": 40
+      },
+      {
+        "node_id": "447",
+        "road_node_index": 90
+      },
+      {
+        "node_id": "3599",
+        "road_node_index": 99
+      },
+      {
+        "node_id": "3284",
+        "road_node_index": 125
+      },
+      {
+        "node_id": "501",
+        "road_node_index": 156
+      },
+      {
+        "node_id": "3725",
+        "road_node_index": 201
+      },
+      {
+        "node_id": "663",
+        "road_node_index": 224
+      }
+    ],
+    "edge_count": 224
+  },
+  "64-B": {
+    "stops": [
+      {
+        "node_id": "2628",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2804",
+        "road_node_index": 24
+      },
+      {
+        "node_id": "2872",
+        "road_node_index": 35
+      },
+      {
+        "node_id": "3563",
+        "road_node_index": 109
+      },
+      {
+        "node_id": "3353",
+        "road_node_index": 129
+      },
+      {
+        "node_id": "2261",
+        "road_node_index": 162
+      },
+      {
+        "node_id": "3049",
+        "road_node_index": 224
+      },
+      {
+        "node_id": "3220",
+        "road_node_index": 265
+      }
+    ],
+    "edge_count": 265
+  },
+  "65-B": {
+    "stops": [
+      {
+        "node_id": "3622",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3304",
+        "road_node_index": 42
+      },
+      {
+        "node_id": "1263",
+        "road_node_index": 93
+      },
+      {
+        "node_id": "3503",
+        "road_node_index": 121
+      },
+      {
+        "node_id": "2467",
+        "road_node_index": 184
+      },
+      {
+        "node_id": "3435",
+        "road_node_index": 208
+      },
+      {
+        "node_id": "2444",
+        "road_node_index": 230
+      },
+      {
+        "node_id": "2774",
+        "road_node_index": 291
+      },
+      {
+        "node_id": "1416",
+        "road_node_index": 317
+      },
+      {
+        "node_id": "2962",
+        "road_node_index": 343
+      }
+    ],
+    "edge_count": 343
+  },
+  "66-B": {
+    "stops": [
+      {
+        "node_id": "2809",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3552",
+        "road_node_index": 57
+      },
+      {
+        "node_id": "3279",
+        "road_node_index": 85
+      },
+      {
+        "node_id": "2613",
+        "road_node_index": 90
+      },
+      {
+        "node_id": "3335",
+        "road_node_index": 129
+      },
+      {
+        "node_id": "2509",
+        "road_node_index": 207
+      },
+      {
+        "node_id": "1300",
+        "road_node_index": 263
+      }
+    ],
+    "edge_count": 263
+  },
+  "67-B": {
+    "stops": [
+      {
+        "node_id": "2087",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "798",
+        "road_node_index": 23
+      },
+      {
+        "node_id": "3481",
+        "road_node_index": 60
+      },
+      {
+        "node_id": "33",
+        "road_node_index": 84
+      },
+      {
+        "node_id": "3671",
+        "road_node_index": 115
+      },
+      {
+        "node_id": "3492",
+        "road_node_index": 135
+      },
+      {
+        "node_id": "28",
+        "road_node_index": 154
+      },
+      {
+        "node_id": "194",
+        "road_node_index": 173
+      },
+      {
+        "node_id": "2066",
+        "road_node_index": 198
+      },
+      {
+        "node_id": "3646",
+        "road_node_index": 235
+      }
+    ],
+    "edge_count": 235
+  },
+  "68-B": {
+    "stops": [
+      {
+        "node_id": "1946",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1686",
+        "road_node_index": 56
+      },
+      {
+        "node_id": "3378",
+        "road_node_index": 94
+      },
+      {
+        "node_id": "1547",
+        "road_node_index": 125
+      },
+      {
+        "node_id": "1273",
+        "road_node_index": 167
+      },
+      {
+        "node_id": "2173",
+        "road_node_index": 186
+      },
+      {
+        "node_id": "2730",
+        "road_node_index": 217
+      },
+      {
+        "node_id": "1141",
+        "road_node_index": 241
+      },
+      {
+        "node_id": "962",
+        "road_node_index": 254
+      },
+      {
+        "node_id": "1380",
+        "road_node_index": 266
+      }
+    ],
+    "edge_count": 266
+  },
+  "69-B": {
+    "stops": [
+      {
+        "node_id": "739",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2045",
+        "road_node_index": 38
+      },
+      {
+        "node_id": "2431",
+        "road_node_index": 71
+      },
+      {
+        "node_id": "2336",
+        "road_node_index": 86
+      },
+      {
+        "node_id": "3691",
+        "road_node_index": 100
+      },
+      {
+        "node_id": "2748",
+        "road_node_index": 138
+      },
+      {
+        "node_id": "3519",
+        "road_node_index": 179
+      },
+      {
+        "node_id": "1532",
+        "road_node_index": 225
+      },
+      {
+        "node_id": "3587",
+        "road_node_index": 235
+      }
+    ],
+    "edge_count": 235
+  },
+  "70-B": {
+    "stops": [
+      {
+        "node_id": "690",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "236",
+        "road_node_index": 15
+      },
+      {
+        "node_id": "178",
+        "road_node_index": 71
+      },
+      {
+        "node_id": "526",
+        "road_node_index": 120
+      },
+      {
+        "node_id": "894",
+        "road_node_index": 147
+      },
+      {
+        "node_id": "290",
+        "road_node_index": 174
+      }
+    ],
+    "edge_count": 174
+  },
+  "71-B": {
+    "stops": [
+      {
+        "node_id": "2121",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2779",
+        "road_node_index": 34
+      },
+      {
+        "node_id": "3147",
+        "road_node_index": 45
+      },
+      {
+        "node_id": "1798",
+        "road_node_index": 115
+      },
+      {
+        "node_id": "3508",
+        "road_node_index": 147
+      },
+      {
+        "node_id": "2186",
+        "road_node_index": 168
+      },
+      {
+        "node_id": "1260",
+        "road_node_index": 222
+      },
+      {
+        "node_id": "1438",
+        "road_node_index": 285
+      }
+    ],
+    "edge_count": 285
+  },
+  "72-B": {
+    "stops": [
+      {
+        "node_id": "3358",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3301",
+        "road_node_index": 29
+      },
+      {
+        "node_id": "2855",
+        "road_node_index": 54
+      },
+      {
+        "node_id": "1264",
+        "road_node_index": 78
+      },
+      {
+        "node_id": "2641",
+        "road_node_index": 120
+      },
+      {
+        "node_id": "1544",
+        "road_node_index": 174
+      },
+      {
+        "node_id": "1774",
+        "road_node_index": 236
+      },
+      {
+        "node_id": "3388",
+        "road_node_index": 267
+      },
+      {
+        "node_id": "1313",
+        "road_node_index": 309
+      }
+    ],
+    "edge_count": 309
+  },
+  "73-B": {
+    "stops": [
+      {
+        "node_id": "3587",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2411",
+        "road_node_index": 51
+      },
+      {
+        "node_id": "2417",
+        "road_node_index": 79
+      },
+      {
+        "node_id": "3547",
+        "road_node_index": 137
+      },
+      {
+        "node_id": "3693",
+        "road_node_index": 161
+      },
+      {
+        "node_id": "719",
+        "road_node_index": 192
+      },
+      {
+        "node_id": "679",
+        "road_node_index": 228
+      },
+      {
+        "node_id": "68",
+        "road_node_index": 240
+      }
+    ],
+    "edge_count": 240
+  },
+  "74-B": {
+    "stops": [
+      {
+        "node_id": "900",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "645",
+        "road_node_index": 75
+      },
+      {
+        "node_id": "304",
+        "road_node_index": 100
+      },
+      {
+        "node_id": "3641",
+        "road_node_index": 113
+      },
+      {
+        "node_id": "815",
+        "road_node_index": 129
+      },
+      {
+        "node_id": "210",
+        "road_node_index": 155
+      },
+      {
+        "node_id": "409",
+        "road_node_index": 176
+      },
+      {
+        "node_id": "3604",
+        "road_node_index": 219
+      },
+      {
+        "node_id": "3425",
+        "road_node_index": 260
+      },
+      {
+        "node_id": "1784",
+        "road_node_index": 279
+      }
+    ],
+    "edge_count": 279
+  },
+  "75-B": {
+    "stops": [
+      {
+        "node_id": "1355",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2844",
+        "road_node_index": 39
+      },
+      {
+        "node_id": "1548",
+        "road_node_index": 80
+      },
+      {
+        "node_id": "2962",
+        "road_node_index": 96
+      },
+      {
+        "node_id": "1488",
+        "road_node_index": 117
+      },
+      {
+        "node_id": "2678",
+        "road_node_index": 144
+      },
+      {
+        "node_id": "1505",
+        "road_node_index": 215
+      },
+      {
+        "node_id": "1383",
+        "road_node_index": 286
+      }
+    ],
+    "edge_count": 286
+  },
+  "76-B": {
+    "stops": [
+      {
+        "node_id": "366",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "568",
+        "road_node_index": 14
+      },
+      {
+        "node_id": "3601",
+        "road_node_index": 47
+      },
+      {
+        "node_id": "750",
+        "road_node_index": 99
+      },
+      {
+        "node_id": "1968",
+        "road_node_index": 130
+      },
+      {
+        "node_id": "669",
+        "road_node_index": 163
+      },
+      {
+        "node_id": "213",
+        "road_node_index": 207
+      },
+      {
+        "node_id": "546",
+        "road_node_index": 222
+      },
+      {
+        "node_id": "3285",
+        "road_node_index": 281
+      },
+      {
+        "node_id": "745",
+        "road_node_index": 306
+      },
+      {
+        "node_id": "56",
+        "road_node_index": 341
+      },
+      {
+        "node_id": "3556",
+        "road_node_index": 354
+      }
+    ],
+    "edge_count": 354
+  },
+  "77-B": {
+    "stops": [
+      {
+        "node_id": "1774",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1465",
+        "road_node_index": 27
+      },
+      {
+        "node_id": "3621",
+        "road_node_index": 57
+      },
+      {
+        "node_id": "3691",
+        "road_node_index": 84
+      },
+      {
+        "node_id": "3456",
+        "road_node_index": 118
+      },
+      {
+        "node_id": "1308",
+        "road_node_index": 167
+      },
+      {
+        "node_id": "2166",
+        "road_node_index": 215
+      },
+      {
+        "node_id": "1412",
+        "road_node_index": 267
+      },
+      {
+        "node_id": "2136",
+        "road_node_index": 290
+      },
+      {
+        "node_id": "1242",
+        "road_node_index": 326
+      }
+    ],
+    "edge_count": 326
+  },
+  "78-B": {
+    "stops": [
+      {
+        "node_id": "119",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3538",
+        "road_node_index": 25
+      },
+      {
+        "node_id": "3698",
+        "road_node_index": 31
+      },
+      {
+        "node_id": "450",
+        "road_node_index": 71
+      },
+      {
+        "node_id": "3390",
+        "road_node_index": 126
+      },
+      {
+        "node_id": "3115",
+        "road_node_index": 175
+      },
+      {
+        "node_id": "2796",
+        "road_node_index": 227
+      }
+    ],
+    "edge_count": 227
+  },
+  "79-B": {
+    "stops": [
+      {
+        "node_id": "1367",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2904",
+        "road_node_index": 22
+      },
+      {
+        "node_id": "3373",
+        "road_node_index": 69
+      },
+      {
+        "node_id": "3570",
+        "road_node_index": 124
+      },
+      {
+        "node_id": "2287",
+        "road_node_index": 168
+      },
+      {
+        "node_id": "3563",
+        "road_node_index": 181
+      },
+      {
+        "node_id": "3033",
+        "road_node_index": 198
+      },
+      {
+        "node_id": "2322",
+        "road_node_index": 249
+      },
+      {
+        "node_id": "2202",
+        "road_node_index": 286
+      }
+    ],
+    "edge_count": 286
+  },
+  "80-B": {
+    "stops": [
+      {
+        "node_id": "289",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "730",
+        "road_node_index": 42
+      },
+      {
+        "node_id": "468",
+        "road_node_index": 73
+      },
+      {
+        "node_id": "1926",
+        "road_node_index": 138
+      },
+      {
+        "node_id": "1571",
+        "road_node_index": 168
+      },
+      {
+        "node_id": "3282",
+        "road_node_index": 201
+      },
+      {
+        "node_id": "768",
+        "road_node_index": 249
+      },
+      {
+        "node_id": "94",
+        "road_node_index": 310
+      },
+      {
+        "node_id": "56",
+        "road_node_index": 325
+      }
+    ],
+    "edge_count": 325
+  },
+  "81-B": {
+    "stops": [
+      {
+        "node_id": "1922",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "900",
+        "road_node_index": 30
+      },
+      {
+        "node_id": "716",
+        "road_node_index": 52
+      },
+      {
+        "node_id": "712",
+        "road_node_index": 80
+      },
+      {
+        "node_id": "557",
+        "road_node_index": 106
+      },
+      {
+        "node_id": "94",
+        "road_node_index": 128
+      },
+      {
+        "node_id": "450",
+        "road_node_index": 151
+      },
+      {
+        "node_id": "678",
+        "road_node_index": 179
+      },
+      {
+        "node_id": "3669",
+        "road_node_index": 213
+      }
+    ],
+    "edge_count": 213
+  },
+  "82-B": {
+    "stops": [
+      {
+        "node_id": "1697",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1903",
+        "road_node_index": 61
+      },
+      {
+        "node_id": "1716",
+        "road_node_index": 87
+      },
+      {
+        "node_id": "1551",
+        "road_node_index": 123
+      },
+      {
+        "node_id": "1755",
+        "road_node_index": 143
+      },
+      {
+        "node_id": "1775",
+        "road_node_index": 204
+      },
+      {
+        "node_id": "1818",
+        "road_node_index": 276
+      }
+    ],
+    "edge_count": 276
+  },
+  "83-B": {
+    "stops": [
+      {
+        "node_id": "998",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2010",
+        "road_node_index": 25
+      },
+      {
+        "node_id": "1042",
+        "road_node_index": 43
+      },
+      {
+        "node_id": "3314",
+        "road_node_index": 81
+      },
+      {
+        "node_id": "1196",
+        "road_node_index": 118
+      },
+      {
+        "node_id": "1066",
+        "road_node_index": 152
+      },
+      {
+        "node_id": "1456",
+        "road_node_index": 191
+      },
+      {
+        "node_id": "3268",
+        "road_node_index": 234
+      },
+      {
+        "node_id": "3315",
+        "road_node_index": 276
+      },
+      {
+        "node_id": "2763",
+        "road_node_index": 297
+      },
+      {
+        "node_id": "3552",
+        "road_node_index": 348
+      }
+    ],
+    "edge_count": 348
+  },
+  "84-B": {
+    "stops": [
+      {
+        "node_id": "117",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "3469",
+        "road_node_index": 24
+      },
+      {
+        "node_id": "3485",
+        "road_node_index": 45
+      },
+      {
+        "node_id": "1615",
+        "road_node_index": 85
+      },
+      {
+        "node_id": "2225",
+        "road_node_index": 117
+      },
+      {
+        "node_id": "3648",
+        "road_node_index": 158
+      },
+      {
+        "node_id": "2452",
+        "road_node_index": 185
+      },
+      {
+        "node_id": "1333",
+        "road_node_index": 256
+      },
+      {
+        "node_id": "2135",
+        "road_node_index": 287
+      }
+    ],
+    "edge_count": 287
+  },
+  "85-B": {
+    "stops": [
+      {
+        "node_id": "1580",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1827",
+        "road_node_index": 44
+      },
+      {
+        "node_id": "108",
+        "road_node_index": 82
+      },
+      {
+        "node_id": "477",
+        "road_node_index": 107
+      },
+      {
+        "node_id": "164",
+        "road_node_index": 132
+      },
+      {
+        "node_id": "1686",
+        "road_node_index": 176
+      },
+      {
+        "node_id": "468",
+        "road_node_index": 224
+      }
+    ],
+    "edge_count": 224
+  },
+  "86-B": {
+    "stops": [
+      {
+        "node_id": "3416",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "2201",
+        "road_node_index": 46
+      },
+      {
+        "node_id": "1584",
+        "road_node_index": 68
+      },
+      {
+        "node_id": "2977",
+        "road_node_index": 119
+      },
+      {
+        "node_id": "3623",
+        "road_node_index": 143
+      },
+      {
+        "node_id": "3589",
+        "road_node_index": 163
+      },
+      {
+        "node_id": "2329",
+        "road_node_index": 189
+      },
+      {
+        "node_id": "2545",
+        "road_node_index": 235
+      }
+    ],
+    "edge_count": 235
+  },
+  "87-B": {
+    "stops": [
+      {
+        "node_id": "1149",
+        "road_node_index": 0
+      },
+      {
+        "node_id": "1725",
+        "road_node_index": 47
+      },
+      {
+        "node_id": "1526",
+        "road_node_index": 77
+      },
+      {
+        "node_id": "1279",
+        "road_node_index": 108
+      },
+      {
+        "node_id": "2153",
+        "road_node_index": 130
+      },
+      {
+        "node_id": "3246",
+        "road_node_index": 143
+      },
+      {
+        "node_id": "1721",
+        "road_node_index": 163
+      },
+      {
+        "node_id": "1949",
+        "road_node_index": 191
+      },
+      {
+        "node_id": "1277",
+        "road_node_index": 225
+      },
+      {
+        "node_id": "1562",
+        "road_node_index": 286
+      }
+    ],
+    "edge_count": 286
+  }
+}

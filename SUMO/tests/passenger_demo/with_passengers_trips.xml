@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-10-21T17:40:15.363159+00:00 by Eclipse SUMO sumo 1.28.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="grid.net.xml"/>
+        <route-files value="with_passengers.rou.xml"/>
+        <additional-files value="stops.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="with_passengers_trips.xml"/>
+        <personinfo-output value="with_passengers_persons.xml"/>
+        <stop-output value="with_passengers_stops.xml"/>
+    </output>
+
+    <time>
+        <end value="300"/>
+        <step-length value="1"/>
+    </time>
+
+    <report>
+        <no-step-log value="true"/>
+    </report>
+
+    <mesoscopic>
+        <mesosim value="false"/>
+    </mesoscopic>
+
+</sumoConfiguration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="jeepney_0" depart="30.00" departLane="A0B0_0" departPos="6.10" departSpeed="11.11" departDelay="0.00" arrival="111.00" arrivalLane="B0C0_0" arrivalPos="89.60" arrivalSpeed="9.00" duration="81.00" routeLength="187.50" waitingTime="0.00" waitingCount="0" stopTime="50.00" timeLoss="0.00" rerouteNo="0" devices="tripinfo_jeepney_0 person_jeepney_0" vType="jeepney" speedFactor="1.00" vaporized=""/>
+</tripinfos>

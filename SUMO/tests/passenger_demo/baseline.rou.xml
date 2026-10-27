@@ -1,0 +1,26 @@
+
+<routes>
+    <vType
+        id="jeepney"
+        vClass="bus"
+        length="6"
+        maxSpeed="11.11"
+        accel="1.0"
+        decel="3.5"
+        sigma="0"
+        personCapacity="20"
+        boardingDuration="5"
+    />
+
+    <vehicle
+        id="jeepney_0"
+        type="jeepney"
+        line="J1"
+        depart="30"
+    >
+        <route edges="A0B0 B0C0"/>
+
+        <stop busStop="stop_A" duration="1"/>
+        <stop busStop="stop_B" duration="1"/>
+    </vehicle>
+</routes>
